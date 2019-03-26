@@ -1,0 +1,43 @@
+{
+  "pages":[
+    "pages/welcome/welcome", 
+    "pages/index/index", 
+    "pages/pokemenList/pokemenList", 
+    "pages/pokemenKit/pokemenKit",
+    "pages/info/info",  
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle" : "light",
+    "navigationBarBackgroundColor" : "#DC4343",
+    "navigationBarTitleText" : "Pokemen",
+    "navigationBarTextStyle" : "black"
+  },
+  "tabBar": {
+   "borderStyle": "white",
+   "selectedColor": "#4A6141",
+   "color": "#333",
+   "blackgroundColor": "#fff",
+   "position": "bottom",
+   "list": [
+      {
+         "pagePath": "pages/index/index",
+         "text": "News"
+      },
+      {
+         "pagePath" : "pages/pokemenList/pokemenList",
+         "iconPath" : "img/icon_tabbar_pokemonList_normal.png",
+         "selectedIconPath" : "img/icon_tabbar_pokemonList_selected.png"
+      },
+      {
+         "pagePath" : "pages/pokemenKit/pokemenKit",
+         "text" : "工具"
+      },
+      {
+         "pagePath" : "pages/info/info",
+         "iconPath": "img/icon_tabbar_Info_normal.png",
+         "selectedIconPath": "img/icon_tabbar_Info_selected.png"
+      }
+   ]
+}
+}
