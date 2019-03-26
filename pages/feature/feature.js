@@ -1,4 +1,6 @@
-// pages/pokemenList/pokemenList.js
+
+var dataFeature = require("../../data/features.js");
+
 Page({
 
    /**
@@ -12,7 +14,9 @@ Page({
     * 生命周期函数--监听页面加载
     */
    onLoad: function (options) {
-
+      this.setData({
+         featureTable : dataFeature.table
+      })
    },
 
    /**
@@ -63,21 +67,24 @@ Page({
    onShareAppMessage: function () {
 
    },
+
    /**
-    * 跳转精灵特性页面
+    * 跳转特性详情页
     */
-   onFeatureJump: function () {
+   onFeatureDetailJump: function (event) {
+      var feature = event.currentTarget.dataset.idx;
       wx.navigateTo({
-         url: '../feature/feature',
-         success:function() {
-            console.log("kit go to feature success");
+         url: '../featureDetail/featureDetail?feature=' + feature,
+         success: function () {
+            console.log("feature go to featureDetail success");
          },
-         fail:function() {
-            console.log("kit go to feature fail");
+         fail: function () {
+            console.log("feature go to featureDetail fail");
          },
-         complete:function() {
-            console.log("kit go to feature complete");
+         complete: function () {
+            console.log("feature go to featureDetail complete");
          }
       });
    }
+
 })

@@ -4,7 +4,10 @@
     "pages/index/index", 
     "pages/pokemenList/pokemenList", 
     "pages/pokemenKit/pokemenKit",
-    "pages/info/info",  
+    "pages/info/info",
+    "pages/feature/feature",
+    "pages/featureDetail/featureDetail",
+    "pages/spriteDetail/spriteDetail",
     "pages/logs/logs"
   ],
   "window":{
@@ -17,7 +20,6 @@
    "borderStyle": "white",
    "selectedColor": "#4A6141",
    "color": "#333",
-   "blackgroundColor": "#fff",
    "position": "bottom",
    "list": [
       {

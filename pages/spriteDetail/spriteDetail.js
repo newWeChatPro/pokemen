@@ -1,4 +1,6 @@
-// pages/pokemenList/pokemenList.js
+
+var allSpriteList = require("../../data/sprites/spriteList.js");
+
 Page({
 
    /**
@@ -12,7 +14,9 @@ Page({
     * 生命周期函数--监听页面加载
     */
    onLoad: function (options) {
-
+      this.setData({
+         sprite: allSpriteList[options.sprite]
+      })
    },
 
    /**
@@ -62,22 +66,5 @@ Page({
     */
    onShareAppMessage: function () {
 
-   },
-   /**
-    * 跳转精灵特性页面
-    */
-   onFeatureJump: function () {
-      wx.navigateTo({
-         url: '../feature/feature',
-         success:function() {
-            console.log("kit go to feature success");
-         },
-         fail:function() {
-            console.log("kit go to feature fail");
-         },
-         complete:function() {
-            console.log("kit go to feature complete");
-         }
-      });
    }
 })

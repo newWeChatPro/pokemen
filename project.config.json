@@ -37,12 +37,20 @@
 			"list": []
 		},
 		"miniprogram": {
-			"current": 0,
+			"current": 1,
 			"list": [
 				{
 					"id": -1,
 					"name": "testTab",
 					"pathName": "pages/index/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 1,
+					"name": "pokemenKit",
+					"pathName": "pages/pokemenKit/pokemenKit",
+					"query": "",
 					"scene": null
 				}
 			]

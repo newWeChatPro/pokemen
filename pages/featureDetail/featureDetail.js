@@ -1,4 +1,7 @@
-// pages/pokemenList/pokemenList.js
+
+var dataFeature = require("../../data/features.js");
+var allSpriteList = require("../../data/sprites/spriteList.js");
+
 Page({
 
    /**
@@ -12,7 +15,13 @@ Page({
     * 生命周期函数--监听页面加载
     */
    onLoad: function (options) {
-
+      var nowFeature = options.feature;
+      this.setData({
+         feature: options.feature,
+         cname: dataFeature.table[nowFeature].cname,
+         introduce: dataFeature.table[nowFeature].introduce,
+         spriteList : allSpriteList
+      })
    },
 
    /**
@@ -63,20 +72,22 @@ Page({
    onShareAppMessage: function () {
 
    },
+
    /**
-    * 跳转精灵特性页面
+    * 跳转到精灵详细页面
     */
-   onFeatureJump: function () {
+   onSpriteDetailJump: function (event) {
+      var sprite = event.currentTarget.dataset.idx;
       wx.navigateTo({
-         url: '../feature/feature',
-         success:function() {
-            console.log("kit go to feature success");
+         url: '../spriteDetail/spriteDetail?sprite=' + sprite,
+         success: function () {
+            console.log("featureDetail go to spriteDetail success");
          },
-         fail:function() {
-            console.log("kit go to feature fail");
+         fail: function () {
+            console.log("featureDetail go to spriteDetail fail");
          },
-         complete:function() {
-            console.log("kit go to feature complete");
+         complete: function () {
+            console.log("featureDetail go to spriteDetail complete");
          }
       });
    }

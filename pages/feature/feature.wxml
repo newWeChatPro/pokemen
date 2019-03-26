@@ -1,0 +1,7 @@
+<view>
+   <block wx:for="{{featureTable}}" wx:for-item="item" wx:for-index="idx">
+      <view class="feature" catchtap = "onFeatureDetailJump" data-idx = "{{idx}}">
+         <text class='cname'>{{item.cname}}</text>
+      </view>
+   </block>
+</view>

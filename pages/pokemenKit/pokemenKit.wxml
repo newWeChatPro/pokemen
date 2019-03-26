@@ -1,2 +1,5 @@
-<!--pages/pokemenList/pokemenList.wxml-->
-<text>pages/pokemenList/pokemenList.wxml</text>
+<view class = "pokemenKit">
+   <view catchtap = "onFeatureJump" class = "pokemenFeature">
+      <text class = "feature">特性</text>
+   </view>
+</view>

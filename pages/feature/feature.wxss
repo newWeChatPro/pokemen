@@ -1,4 +1,4 @@
-.pokemenFeature {
+.feature {
    margin-top: 20rpx;
    border: 1px solid #EA5A3C
 }

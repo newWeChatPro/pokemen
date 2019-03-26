@@ -31,7 +31,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "chlorophyll"
     ],
@@ -91,7 +91,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "chlorophyll"
     ],
@@ -151,7 +151,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "chlorophyll"
     ],
@@ -212,7 +212,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "thickfat"
     ],
     "eggGroup": [
@@ -269,7 +269,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "solarpower"
     ],
@@ -327,7 +327,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "solarpower"
     ],
@@ -387,7 +387,7 @@ module.exports = [
       "火",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "solarpower"
     ],
@@ -448,7 +448,7 @@ module.exports = [
       "火",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "toughclaws"
     ],
     "eggGroup": [
@@ -508,7 +508,7 @@ module.exports = [
       "火",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "drought"
     ],
     "eggGroup": [
@@ -565,7 +565,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "raindish"
     ],
@@ -623,7 +623,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "raindish"
     ],
@@ -681,7 +681,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "raindish"
     ],
@@ -740,7 +740,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "megalauncher"
     ],
     "eggGroup": [
@@ -797,7 +797,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "shielddust",
       "runaway"
     ],
@@ -855,7 +855,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "shedskin"
     ],
     "eggGroup": [
@@ -914,7 +914,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "compoundeyes",
       "tintedlens"
     ],
@@ -974,7 +974,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "shielddust",
       "runaway"
     ],
@@ -1033,7 +1033,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "shedskin"
     ],
     "eggGroup": [
@@ -1091,7 +1091,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "sniper"
     ],
@@ -1151,7 +1151,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "adaptability"
     ],
     "eggGroup": [
@@ -1209,7 +1209,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "tangledfeet",
       "bigpecks"
@@ -1269,7 +1269,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "tangledfeet",
       "bigpecks"
@@ -1329,7 +1329,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "tangledfeet",
       "bigpecks"
@@ -1390,7 +1390,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "noguard"
     ],
     "eggGroup": [
@@ -1446,7 +1446,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "guts",
       "hustle"
@@ -1503,7 +1503,7 @@ module.exports = [
       "恶",
       "一般"
     ],
-    "ability": [
+    "feature": [
       "hustle",
       "gluttony",
       "thickfat"
@@ -1557,7 +1557,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "guts",
       "hustle"
@@ -1614,7 +1614,7 @@ module.exports = [
       "恶",
       "一般"
     ],
-    "ability": [
+    "feature": [
       "hustle",
       "gluttony",
       "thickfat"
@@ -1670,7 +1670,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "sniper"
     ],
@@ -1725,7 +1725,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "sniper"
     ],
@@ -1778,7 +1778,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "shedskin",
       "unnerve"
@@ -1832,7 +1832,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "shedskin",
       "unnerve"
@@ -1886,7 +1886,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "lightningrod"
     ],
@@ -1947,7 +1947,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "lightningrod"
     ],
@@ -2011,7 +2011,7 @@ module.exports = [
       "电",
       "超"
     ],
-    "ability": [
+    "feature": [
       "surgesurfer"
     ],
     "eggGroup": [
@@ -2071,7 +2071,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandveil",
       "sandrush"
     ],
@@ -2128,7 +2128,7 @@ module.exports = [
       "冰",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "snowcloak",
       "slushrush"
     ],
@@ -2182,7 +2182,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandveil",
       "sandrush"
     ],
@@ -2239,7 +2239,7 @@ module.exports = [
       "冰",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "snowcloak",
       "slushrush"
     ],
@@ -2293,7 +2293,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "rivalry",
       "hustle"
@@ -2351,7 +2351,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "rivalry",
       "hustle"
@@ -2410,7 +2410,7 @@ module.exports = [
       "毒",
       "地"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "rivalry",
       "sheerforce"
@@ -2467,7 +2467,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "rivalry",
       "hustle"
@@ -2525,7 +2525,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "rivalry",
       "hustle"
@@ -2585,7 +2585,7 @@ module.exports = [
       "毒",
       "地"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "rivalry",
       "sheerforce"
@@ -2643,7 +2643,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "magicguard",
       "friendguard"
@@ -2702,7 +2702,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "magicguard",
       "unaware"
@@ -2761,7 +2761,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "flashfire",
       "drought"
     ],
@@ -2816,7 +2816,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "snowcloak",
       "snowwarning"
     ],
@@ -2870,7 +2870,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "flashfire",
       "drought"
     ],
@@ -2927,7 +2927,7 @@ module.exports = [
       "冰",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "snowcloak",
       "snowwarning"
     ],
@@ -2983,7 +2983,7 @@ module.exports = [
       "一般",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "competitive",
       "friendguard"
@@ -3044,7 +3044,7 @@ module.exports = [
       "一般",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "competitive",
       "frisk"
@@ -3105,7 +3105,7 @@ module.exports = [
       "毒",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "infiltrator"
     ],
@@ -3167,7 +3167,7 @@ module.exports = [
       "毒",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "infiltrator"
     ],
@@ -3229,7 +3229,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "runaway"
     ],
@@ -3291,7 +3291,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "stench"
     ],
@@ -3353,7 +3353,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "effectspore"
     ],
@@ -3415,7 +3415,7 @@ module.exports = [
       "虫",
       "草"
     ],
-    "ability": [
+    "feature": [
       "effectspore",
       "dryskin",
       "damp"
@@ -3472,7 +3472,7 @@ module.exports = [
       "虫",
       "草"
     ],
-    "ability": [
+    "feature": [
       "effectspore",
       "dryskin",
       "damp"
@@ -3529,7 +3529,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "compoundeyes",
       "tintedlens",
       "runaway"
@@ -3584,7 +3584,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "shielddust",
       "tintedlens",
       "wonderskin"
@@ -3637,7 +3637,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandveil",
       "arenatrap",
       "sandforce"
@@ -3694,7 +3694,7 @@ module.exports = [
       "地",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "tanglinghair",
       "sandveil",
       "sandforce"
@@ -3748,7 +3748,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandveil",
       "arenatrap",
       "sandforce"
@@ -3805,7 +3805,7 @@ module.exports = [
       "地",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "tanglinghair",
       "sandveil",
       "sandforce"
@@ -3859,7 +3859,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "technician",
       "unnerve"
@@ -3914,7 +3914,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "technician",
       "rattled"
@@ -3968,7 +3968,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "limber",
       "technician",
       "unnerve"
@@ -4023,7 +4023,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "furcoat",
       "technician",
       "rattled"
@@ -4077,7 +4077,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "damp",
       "cloudnine",
       "swiftswim"
@@ -4135,7 +4135,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "damp",
       "cloudnine",
       "swiftswim"
@@ -4193,7 +4193,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "vitalspirit",
       "angerpoint",
       "defiant"
@@ -4247,7 +4247,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "vitalspirit",
       "angerpoint",
       "defiant"
@@ -4301,7 +4301,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "flashfire",
       "justified"
@@ -4355,7 +4355,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "flashfire",
       "justified"
@@ -4409,7 +4409,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "waterabsorb",
       "damp",
       "swiftswim"
@@ -4469,7 +4469,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "waterabsorb",
       "damp",
       "swiftswim"
@@ -4531,7 +4531,7 @@ module.exports = [
       "水",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "waterabsorb",
       "damp",
       "swiftswim"
@@ -4591,7 +4591,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "synchronize",
       "innerfocus",
       "magicguard"
@@ -4652,7 +4652,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "synchronize",
       "innerfocus",
       "magicguard"
@@ -4713,7 +4713,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "synchronize",
       "innerfocus",
       "magicguard"
@@ -4775,7 +4775,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "trace"
     ],
     "eggGroup": [
@@ -4834,7 +4834,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "noguard",
       "steadfast"
@@ -4894,7 +4894,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "noguard",
       "steadfast"
@@ -4954,7 +4954,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "noguard",
       "steadfast"
@@ -5016,7 +5016,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "gluttony"
     ],
@@ -5074,7 +5074,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "gluttony"
     ],
@@ -5132,7 +5132,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "gluttony"
     ],
@@ -5190,7 +5190,7 @@ module.exports = [
       "水",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "clearbody",
       "raindish"
     ],
@@ -5247,7 +5247,7 @@ module.exports = [
       "水",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "clearbody",
       "raindish"
     ],
@@ -5304,7 +5304,7 @@ module.exports = [
       "岩",
       "地"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "sturdy",
       "sandveil"
@@ -5367,7 +5367,7 @@ module.exports = [
       "岩",
       "电"
     ],
-    "ability": [
+    "feature": [
       "magnetpull",
       "sturdy",
       "galvanize"
@@ -5429,7 +5429,7 @@ module.exports = [
       "岩",
       "地"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "sturdy",
       "sandveil"
@@ -5492,7 +5492,7 @@ module.exports = [
       "岩",
       "电"
     ],
-    "ability": [
+    "feature": [
       "magnetpull",
       "sturdy",
       "galvanize"
@@ -5554,7 +5554,7 @@ module.exports = [
       "岩",
       "地"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "sturdy",
       "sandveil"
@@ -5617,7 +5617,7 @@ module.exports = [
       "岩",
       "电"
     ],
-    "ability": [
+    "feature": [
       "magnetpull",
       "sturdy",
       "galvanize"
@@ -5677,7 +5677,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "flashfire",
       "flamebody"
@@ -5731,7 +5731,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "flashfire",
       "flamebody"
@@ -5787,7 +5787,7 @@ module.exports = [
       "水",
       "超"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "owntempo",
       "regenerator"
@@ -5846,7 +5846,7 @@ module.exports = [
       "水",
       "超"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "owntempo",
       "regenerator"
@@ -5905,7 +5905,7 @@ module.exports = [
       "水",
       "超"
     ],
-    "ability": [
+    "feature": [
       "shellarmor"
     ],
     "eggGroup": [
@@ -5962,7 +5962,7 @@ module.exports = [
       "电",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "magnetpull",
       "sturdy",
       "analytic"
@@ -6024,7 +6024,7 @@ module.exports = [
       "电",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "magnetpull",
       "sturdy",
       "analytic"
@@ -6086,7 +6086,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "innerfocus",
       "defiant"
@@ -6135,7 +6135,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "earlybird",
       "tangledfeet"
@@ -6192,7 +6192,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "earlybird",
       "tangledfeet"
@@ -6247,7 +6247,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "hydration",
       "icebody"
@@ -6303,7 +6303,7 @@ module.exports = [
       "水",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "hydration",
       "icebody"
@@ -6357,7 +6357,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "stench",
       "stickyhold",
       "poisontouch"
@@ -6415,7 +6415,7 @@ module.exports = [
       "毒",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "gluttony",
       "poisontouch",
       "powerofalchemy"
@@ -6470,7 +6470,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "stench",
       "stickyhold",
       "poisontouch"
@@ -6528,7 +6528,7 @@ module.exports = [
       "毒",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "gluttony",
       "poisontouch",
       "powerofalchemy"
@@ -6583,7 +6583,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "shellarmor",
       "skilllink",
       "overcoat"
@@ -6639,7 +6639,7 @@ module.exports = [
       "水",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "shellarmor",
       "skilllink",
       "overcoat"
@@ -6695,7 +6695,7 @@ module.exports = [
       "幽灵",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -6754,7 +6754,7 @@ module.exports = [
       "幽灵",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -6813,7 +6813,7 @@ module.exports = [
       "幽灵",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "cursedbody"
     ],
     "eggGroup": [
@@ -6873,7 +6873,7 @@ module.exports = [
       "幽灵",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "shadowtag"
     ],
     "eggGroup": [
@@ -6932,7 +6932,7 @@ module.exports = [
       "岩",
       "地"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "sturdy",
       "weakarmor"
@@ -6986,7 +6986,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "insomnia",
       "forewarn",
       "innerfocus"
@@ -7040,7 +7040,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "insomnia",
       "forewarn",
       "innerfocus"
@@ -7094,7 +7094,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "shellarmor",
       "sheerforce"
@@ -7147,7 +7147,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "shellarmor",
       "sheerforce"
@@ -7200,7 +7200,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "soundproof",
       "static",
       "aftermath"
@@ -7254,7 +7254,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "soundproof",
       "static",
       "aftermath"
@@ -7310,7 +7310,7 @@ module.exports = [
       "草",
       "超"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "harvest"
     ],
@@ -7365,7 +7365,7 @@ module.exports = [
       "草",
       "超"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "harvest"
     ],
@@ -7421,7 +7421,7 @@ module.exports = [
       "草",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "frisk",
       "harvest"
     ],
@@ -7474,7 +7474,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "lightningrod",
       "battlearmor"
@@ -7528,7 +7528,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "lightningrod",
       "battlearmor"
@@ -7585,7 +7585,7 @@ module.exports = [
       "火",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "cursedbody",
       "lightningrod",
       "rockhead"
@@ -7639,7 +7639,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "limber",
       "reckless",
       "unburden"
@@ -7696,7 +7696,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "ironfist",
       "innerfocus"
@@ -7753,7 +7753,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "owntempo",
       "oblivious",
       "cloudnine"
@@ -7807,7 +7807,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -7859,7 +7859,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -7913,7 +7913,7 @@ module.exports = [
       "地",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "lightningrod",
       "rockhead",
       "reckless"
@@ -7975,7 +7975,7 @@ module.exports = [
       "地",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "lightningrod",
       "rockhead",
       "reckless"
@@ -8035,7 +8035,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "naturalcure",
       "serenegrace",
       "healer"
@@ -8094,7 +8094,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "leafguard",
       "regenerator"
@@ -8148,7 +8148,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "earlybird",
       "scrappy",
       "innerfocus"
@@ -8195,7 +8195,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "parentalbond"
     ],
     "eggGroup": [
@@ -8239,7 +8239,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "sniper",
       "damp"
@@ -8298,7 +8298,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "sniper",
       "damp"
@@ -8357,7 +8357,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "waterveil",
       "lightningrod"
@@ -8414,7 +8414,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "waterveil",
       "lightningrod"
@@ -8471,7 +8471,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "illuminate",
       "naturalcure",
       "analytic"
@@ -8528,7 +8528,7 @@ module.exports = [
       "水",
       "超"
     ],
-    "ability": [
+    "feature": [
       "illuminate",
       "naturalcure",
       "analytic"
@@ -8585,7 +8585,7 @@ module.exports = [
       "超",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "soundproof",
       "filter",
       "technician"
@@ -8641,7 +8641,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "technician",
       "steadfast"
@@ -8698,7 +8698,7 @@ module.exports = [
       "冰",
       "超"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "forewarn",
       "dryskin"
@@ -8751,7 +8751,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "vitalspirit"
     ],
@@ -8809,7 +8809,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "flamebody",
       "vitalspirit"
     ],
@@ -8867,7 +8867,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "moldbreaker",
       "moxie"
@@ -8917,7 +8917,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "aerilate"
     ],
     "eggGroup": [
@@ -8962,7 +8962,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "angerpoint",
       "sheerforce"
@@ -9008,7 +9008,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "rattled"
     ],
@@ -9067,7 +9067,7 @@ module.exports = [
       "水",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "moxie"
     ],
@@ -9127,7 +9127,7 @@ module.exports = [
       "水",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "moldbreaker"
     ],
     "eggGroup": [
@@ -9185,7 +9185,7 @@ module.exports = [
       "水",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "waterabsorb",
       "shellarmor",
       "hydration"
@@ -9232,7 +9232,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "limber",
       "imposter"
     ],
@@ -9277,7 +9277,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "adaptability",
       "anticipation"
@@ -9346,7 +9346,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "waterabsorb",
       "hydration"
     ],
@@ -9414,7 +9414,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "voltabsorb",
       "quickfeet"
     ],
@@ -9482,7 +9482,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "flashfire",
       "guts"
     ],
@@ -9550,7 +9550,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "trace",
       "download",
       "analytic"
@@ -9611,7 +9611,7 @@ module.exports = [
       "岩",
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "shellarmor",
       "weakarmor"
@@ -9667,7 +9667,7 @@ module.exports = [
       "岩",
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "shellarmor",
       "weakarmor"
@@ -9723,7 +9723,7 @@ module.exports = [
       "岩",
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "battlearmor",
       "weakarmor"
@@ -9779,7 +9779,7 @@ module.exports = [
       "岩",
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "battlearmor",
       "weakarmor"
@@ -9835,7 +9835,7 @@ module.exports = [
       "岩",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "pressure",
       "unnerve"
@@ -9884,7 +9884,7 @@ module.exports = [
       "岩",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "toughclaws"
     ],
     "eggGroup": [
@@ -9928,7 +9928,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "immunity",
       "thickfat",
       "gluttony"
@@ -9986,7 +9986,7 @@ module.exports = [
       "冰",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "snowcloak"
     ],
@@ -10032,7 +10032,7 @@ module.exports = [
       "电",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "static"
     ],
@@ -10078,7 +10078,7 @@ module.exports = [
       "火",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "flamebody"
     ],
@@ -10122,7 +10122,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "shedskin",
       "marvelscale"
     ],
@@ -10180,7 +10180,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "shedskin",
       "marvelscale"
     ],
@@ -10240,7 +10240,7 @@ module.exports = [
       "龙",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "multiscale"
     ],
@@ -10298,7 +10298,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "unnerve"
     ],
@@ -10345,7 +10345,7 @@ module.exports = [
       "超",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "steadfast"
     ],
     "eggGroup": [
@@ -10389,7 +10389,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "insomnia"
     ],
     "eggGroup": [
@@ -10432,7 +10432,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "synchronize"
     ],
     "eggGroup": [
@@ -10475,7 +10475,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "leafguard"
     ],
@@ -10531,7 +10531,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "leafguard"
     ],
@@ -10587,7 +10587,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "leafguard"
     ],
@@ -10643,7 +10643,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "flashfire"
     ],
@@ -10698,7 +10698,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "flashfire"
     ],
@@ -10753,7 +10753,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "flashfire"
     ],
@@ -10808,7 +10808,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "sheerforce"
     ],
@@ -10864,7 +10864,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "sheerforce"
     ],
@@ -10920,7 +10920,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "sheerforce"
     ],
@@ -10976,7 +10976,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "keeneye",
       "frisk"
@@ -11029,7 +11029,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "keeneye",
       "frisk"
@@ -11084,7 +11084,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "insomnia",
       "keeneye",
       "tintedlens"
@@ -11139,7 +11139,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "insomnia",
       "keeneye",
       "tintedlens"
@@ -11194,7 +11194,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "earlybird",
       "rattled"
@@ -11250,7 +11250,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "earlybird",
       "ironfist"
@@ -11306,7 +11306,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "insomnia",
       "sniper"
@@ -11361,7 +11361,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "insomnia",
       "sniper"
@@ -11416,7 +11416,7 @@ module.exports = [
       "毒",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "infiltrator"
     ],
@@ -11477,7 +11477,7 @@ module.exports = [
       "水",
       "电"
     ],
-    "ability": [
+    "feature": [
       "voltabsorb",
       "illuminate",
       "waterabsorb"
@@ -11533,7 +11533,7 @@ module.exports = [
       "水",
       "电"
     ],
-    "ability": [
+    "feature": [
       "voltabsorb",
       "illuminate",
       "waterabsorb"
@@ -11587,7 +11587,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "lightningrod"
     ],
@@ -11646,7 +11646,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "magicguard",
       "friendguard"
@@ -11706,7 +11706,7 @@ module.exports = [
       "一般",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "competitive",
       "friendguard"
@@ -11764,7 +11764,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "hustle",
       "serenegrace",
       "superluck"
@@ -11823,7 +11823,7 @@ module.exports = [
       "妖精",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "hustle",
       "serenegrace",
       "superluck"
@@ -11883,7 +11883,7 @@ module.exports = [
       "超",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "synchronize",
       "earlybird",
       "magicbounce"
@@ -11938,7 +11938,7 @@ module.exports = [
       "超",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "synchronize",
       "earlybird",
       "magicbounce"
@@ -11991,7 +11991,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "plus"
     ],
@@ -12047,7 +12047,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "plus"
     ],
@@ -12103,7 +12103,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "plus"
     ],
@@ -12162,7 +12162,7 @@ module.exports = [
       "电",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "moldbreaker"
     ],
     "eggGroup": [
@@ -12217,7 +12217,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "healer"
     ],
@@ -12278,7 +12278,7 @@ module.exports = [
       "水",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "hugepower",
       "sapsipper"
@@ -12340,7 +12340,7 @@ module.exports = [
       "水",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "hugepower",
       "sapsipper"
@@ -12400,7 +12400,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "rockhead",
       "rattled"
@@ -12454,7 +12454,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "waterabsorb",
       "damp",
       "drizzle"
@@ -12515,7 +12515,7 @@ module.exports = [
       "草",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "leafguard",
       "infiltrator"
@@ -12575,7 +12575,7 @@ module.exports = [
       "草",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "leafguard",
       "infiltrator"
@@ -12635,7 +12635,7 @@ module.exports = [
       "草",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "leafguard",
       "infiltrator"
@@ -12693,7 +12693,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "pickup",
       "skilllink"
@@ -12746,7 +12746,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "solarpower",
       "earlybird"
@@ -12798,7 +12798,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "solarpower",
       "earlybird"
@@ -12852,7 +12852,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "speedboost",
       "compoundeyes",
       "frisk"
@@ -12907,7 +12907,7 @@ module.exports = [
       "水",
       "地"
     ],
-    "ability": [
+    "feature": [
       "damp",
       "waterabsorb",
       "unaware"
@@ -12963,7 +12963,7 @@ module.exports = [
       "水",
       "地"
     ],
-    "ability": [
+    "feature": [
       "damp",
       "waterabsorb",
       "unaware"
@@ -13017,7 +13017,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "synchronize",
       "magicbounce"
     ],
@@ -13084,7 +13084,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "synchronize",
       "innerfocus"
     ],
@@ -13153,7 +13153,7 @@ module.exports = [
       "恶",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "insomnia",
       "superluck",
       "prankster"
@@ -13209,7 +13209,7 @@ module.exports = [
       "水",
       "超"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "owntempo",
       "regenerator"
@@ -13265,7 +13265,7 @@ module.exports = [
     "ctype": [
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -13317,7 +13317,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -13360,7 +13360,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "shadowtag",
       "telepathy"
     ],
@@ -13414,7 +13414,7 @@ module.exports = [
       "一般",
       "超"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "earlybird",
       "sapsipper"
@@ -13460,7 +13460,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "overcoat"
     ],
@@ -13513,7 +13513,7 @@ module.exports = [
       "虫",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "overcoat"
     ],
@@ -13564,7 +13564,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "serenegrace",
       "runaway",
       "rattled"
@@ -13611,7 +13611,7 @@ module.exports = [
       "地",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "sandveil",
       "immunity"
@@ -13666,7 +13666,7 @@ module.exports = [
       "钢",
       "地"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "sturdy",
       "sheerforce"
@@ -13722,7 +13722,7 @@ module.exports = [
       "钢",
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandforce"
     ],
     "eggGroup": [
@@ -13773,7 +13773,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "runaway",
       "rattled"
@@ -13827,7 +13827,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "quickfeet",
       "rattled"
@@ -13883,7 +13883,7 @@ module.exports = [
       "水",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "swiftswim",
       "intimidate"
@@ -13929,7 +13929,7 @@ module.exports = [
       "虫",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "technician",
       "steadfast"
@@ -13986,7 +13986,7 @@ module.exports = [
       "虫",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "technician"
     ],
     "eggGroup": [
@@ -14040,7 +14040,7 @@ module.exports = [
       "虫",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "gluttony",
       "contrary"
@@ -14086,7 +14086,7 @@ module.exports = [
       "虫",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "guts",
       "moxie"
@@ -14135,7 +14135,7 @@ module.exports = [
       "虫",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "skilllink"
     ],
     "eggGroup": [
@@ -14181,7 +14181,7 @@ module.exports = [
       "恶",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "keeneye",
       "pickpocket"
@@ -14235,7 +14235,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "quickfeet",
       "honeygather"
@@ -14287,7 +14287,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "quickfeet",
       "unnerve"
@@ -14339,7 +14339,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "magmaarmor",
       "flamebody",
       "weakarmor"
@@ -14394,7 +14394,7 @@ module.exports = [
       "火",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "magmaarmor",
       "flamebody",
       "weakarmor"
@@ -14449,7 +14449,7 @@ module.exports = [
       "冰",
       "地"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "snowcloak",
       "thickfat"
@@ -14508,7 +14508,7 @@ module.exports = [
       "冰",
       "地"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "snowcloak",
       "thickfat"
@@ -14567,7 +14567,7 @@ module.exports = [
       "水",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "hustle",
       "naturalcure",
       "regenerator"
@@ -14614,7 +14614,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "hustle",
       "sniper",
       "moody"
@@ -14668,7 +14668,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "suctioncups",
       "sniper",
       "moody"
@@ -14724,7 +14724,7 @@ module.exports = [
       "冰",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "vitalspirit",
       "hustle",
       "insomnia"
@@ -14772,7 +14772,7 @@ module.exports = [
       "水",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "waterabsorb",
       "waterveil"
@@ -14827,7 +14827,7 @@ module.exports = [
       "钢",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "sturdy",
       "weakarmor"
@@ -14875,7 +14875,7 @@ module.exports = [
       "恶",
       "火"
     ],
-    "ability": [
+    "feature": [
       "earlybird",
       "flashfire",
       "unnerve"
@@ -14930,7 +14930,7 @@ module.exports = [
       "恶",
       "火"
     ],
-    "ability": [
+    "feature": [
       "earlybird",
       "flashfire",
       "unnerve"
@@ -14986,7 +14986,7 @@ module.exports = [
       "恶",
       "火"
     ],
-    "ability": [
+    "feature": [
       "solarpower"
     ],
     "eggGroup": [
@@ -15039,7 +15039,7 @@ module.exports = [
       "水",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "sniper",
       "damp"
@@ -15097,7 +15097,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "sandveil"
     ],
@@ -15149,7 +15149,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "sandveil"
     ],
@@ -15201,7 +15201,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "trace",
       "download",
       "analytic"
@@ -15259,7 +15259,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "frisk",
       "sapsipper"
@@ -15303,7 +15303,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "owntempo",
       "technician",
       "moody"
@@ -15349,7 +15349,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "steadfast",
       "vitalspirit"
@@ -15405,7 +15405,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "technician",
       "steadfast"
@@ -15463,7 +15463,7 @@ module.exports = [
       "冰",
       "超"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "forewarn",
       "hydration"
@@ -15515,7 +15515,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "vitalspirit"
     ],
@@ -15572,7 +15572,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "flamebody",
       "vitalspirit"
     ],
@@ -15629,7 +15629,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "scrappy",
       "sapsipper"
@@ -15674,7 +15674,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "naturalcure",
       "serenegrace",
       "healer"
@@ -15732,7 +15732,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "innerfocus"
     ],
@@ -15775,7 +15775,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "innerfocus"
     ],
@@ -15818,7 +15818,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "innerfocus"
     ],
@@ -15863,7 +15863,7 @@ module.exports = [
       "岩",
       "地"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "sandveil"
     ],
@@ -15920,7 +15920,7 @@ module.exports = [
       "岩",
       "地"
     ],
-    "ability": [
+    "feature": [
       "shedskin"
     ],
     "eggGroup": [
@@ -15976,7 +15976,7 @@ module.exports = [
       "岩",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "sandstream",
       "unnerve"
     ],
@@ -16034,7 +16034,7 @@ module.exports = [
       "岩",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "sandstream"
     ],
     "eggGroup": [
@@ -16090,7 +16090,7 @@ module.exports = [
       "超",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "multiscale"
     ],
@@ -16135,7 +16135,7 @@ module.exports = [
       "火",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "regenerator"
     ],
@@ -16180,7 +16180,7 @@ module.exports = [
       "超",
       "草"
     ],
-    "ability": [
+    "feature": [
       "naturalcure"
     ],
     "eggGroup": [
@@ -16222,7 +16222,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "unburden"
     ],
@@ -16278,7 +16278,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "unburden"
     ],
@@ -16334,7 +16334,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "unburden"
     ],
@@ -16393,7 +16393,7 @@ module.exports = [
       "草",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "lightningrod"
     ],
     "eggGroup": [
@@ -16448,7 +16448,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "speedboost"
     ],
@@ -16505,7 +16505,7 @@ module.exports = [
       "火",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "speedboost"
     ],
@@ -16562,7 +16562,7 @@ module.exports = [
       "火",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "speedboost"
     ],
@@ -16620,7 +16620,7 @@ module.exports = [
       "火",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "speedboost"
     ],
     "eggGroup": [
@@ -16674,7 +16674,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "damp"
     ],
@@ -16732,7 +16732,7 @@ module.exports = [
       "水",
       "地"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "damp"
     ],
@@ -16790,7 +16790,7 @@ module.exports = [
       "水",
       "地"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "damp"
     ],
@@ -16849,7 +16849,7 @@ module.exports = [
       "水",
       "地"
     ],
-    "ability": [
+    "feature": [
       "swiftswim"
     ],
     "eggGroup": [
@@ -16904,7 +16904,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "quickfeet",
       "rattled"
@@ -16956,7 +16956,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "quickfeet",
       "moxie"
@@ -17008,7 +17008,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "gluttony",
       "quickfeet"
@@ -17061,7 +17061,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "gluttony",
       "quickfeet"
@@ -17114,7 +17114,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "shielddust",
       "runaway"
     ],
@@ -17170,7 +17170,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "shedskin"
     ],
     "eggGroup": [
@@ -17227,7 +17227,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "rivalry"
     ],
@@ -17283,7 +17283,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "shedskin"
     ],
     "eggGroup": [
@@ -17340,7 +17340,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "shielddust",
       "compoundeyes"
     ],
@@ -17398,7 +17398,7 @@ module.exports = [
       "水",
       "草"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "raindish",
       "owntempo"
@@ -17457,7 +17457,7 @@ module.exports = [
       "水",
       "草"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "raindish",
       "owntempo"
@@ -17516,7 +17516,7 @@ module.exports = [
       "水",
       "草"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "raindish",
       "owntempo"
@@ -17573,7 +17573,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "earlybird",
       "pickpocket"
@@ -17632,7 +17632,7 @@ module.exports = [
       "草",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "earlybird",
       "pickpocket"
@@ -17691,7 +17691,7 @@ module.exports = [
       "草",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "earlybird",
       "pickpocket"
@@ -17750,7 +17750,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "scrappy"
     ],
@@ -17803,7 +17803,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "scrappy"
     ],
@@ -17856,7 +17856,7 @@ module.exports = [
       "水",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "hydration",
       "raindish"
@@ -17913,7 +17913,7 @@ module.exports = [
       "水",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "hydration",
       "raindish"
@@ -17970,7 +17970,7 @@ module.exports = [
       "超",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "synchronize",
       "trace",
       "telepathy"
@@ -18032,7 +18032,7 @@ module.exports = [
       "超",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "synchronize",
       "trace",
       "telepathy"
@@ -18094,7 +18094,7 @@ module.exports = [
       "超",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "synchronize",
       "trace",
       "telepathy"
@@ -18157,7 +18157,7 @@ module.exports = [
       "超",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "pixilate"
     ],
     "eggGroup": [
@@ -18217,7 +18217,7 @@ module.exports = [
       "虫",
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "raindish"
     ],
@@ -18273,7 +18273,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "unnerve"
     ],
@@ -18327,7 +18327,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "effectspore",
       "poisonheal",
       "quickfeet"
@@ -18382,7 +18382,7 @@ module.exports = [
       "草",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "effectspore",
       "poisonheal",
       "technician"
@@ -18435,7 +18435,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "truant"
     ],
     "eggGroup": [
@@ -18489,7 +18489,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "vitalspirit"
     ],
     "eggGroup": [
@@ -18543,7 +18543,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "truant"
     ],
     "eggGroup": [
@@ -18599,7 +18599,7 @@ module.exports = [
       "虫",
       "地"
     ],
-    "ability": [
+    "feature": [
       "compoundeyes",
       "runaway"
     ],
@@ -18655,7 +18655,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "speedboost",
       "infiltrator"
     ],
@@ -18711,7 +18711,7 @@ module.exports = [
       "虫",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "wonderguard"
     ],
     "eggGroup": [
@@ -18764,7 +18764,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "soundproof",
       "rattled"
     ],
@@ -18821,7 +18821,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "soundproof",
       "scrappy"
     ],
@@ -18878,7 +18878,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "soundproof",
       "scrappy"
     ],
@@ -18935,7 +18935,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "guts",
       "sheerforce"
@@ -18988,7 +18988,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "guts",
       "sheerforce"
@@ -19043,7 +19043,7 @@ module.exports = [
       "一般",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "hugepower",
       "sapsipper"
@@ -19101,7 +19101,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "magnetpull",
       "sandforce"
@@ -19155,7 +19155,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "normalize",
       "wonderskin"
@@ -19209,7 +19209,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "normalize",
       "wonderskin"
@@ -19265,7 +19265,7 @@ module.exports = [
       "恶",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "stall",
       "prankster"
@@ -19313,7 +19313,7 @@ module.exports = [
       "恶",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "magicbounce"
     ],
     "eggGroup": [
@@ -19358,7 +19358,7 @@ module.exports = [
       "钢",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "intimidate",
       "sheerforce"
@@ -19406,7 +19406,7 @@ module.exports = [
       "钢",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "hugepower"
     ],
     "eggGroup": [
@@ -19451,7 +19451,7 @@ module.exports = [
       "钢",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "rockhead",
       "heavymetal"
@@ -19509,7 +19509,7 @@ module.exports = [
       "钢",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "rockhead",
       "heavymetal"
@@ -19567,7 +19567,7 @@ module.exports = [
       "钢",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "rockhead",
       "heavymetal"
@@ -19624,7 +19624,7 @@ module.exports = [
     "ctype": [
       "钢"
     ],
-    "ability": [
+    "feature": [
       "filter"
     ],
     "eggGroup": [
@@ -19680,7 +19680,7 @@ module.exports = [
       "斗",
       "超"
     ],
-    "ability": [
+    "feature": [
       "purepower",
       "telepathy"
     ],
@@ -19735,7 +19735,7 @@ module.exports = [
       "斗",
       "超"
     ],
-    "ability": [
+    "feature": [
       "purepower",
       "telepathy"
     ],
@@ -19791,7 +19791,7 @@ module.exports = [
       "斗",
       "超"
     ],
-    "ability": [
+    "feature": [
       "purepower"
     ],
     "eggGroup": [
@@ -19843,7 +19843,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "lightningrod",
       "minus"
@@ -19895,7 +19895,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "lightningrod",
       "minus"
@@ -19948,7 +19948,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "intimidate"
     ],
     "eggGroup": [
@@ -19998,7 +19998,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "plus",
       "lightningrod"
     ],
@@ -20042,7 +20042,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "minus",
       "voltabsorb"
     ],
@@ -20086,7 +20086,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "illuminate",
       "swarm",
       "prankster"
@@ -20132,7 +20132,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "tintedlens",
       "prankster"
@@ -20180,7 +20180,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "naturalcure",
       "poisonpoint",
       "leafguard"
@@ -20239,7 +20239,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "liquidooze",
       "stickyhold",
       "gluttony"
@@ -20292,7 +20292,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "liquidooze",
       "stickyhold",
       "gluttony"
@@ -20347,7 +20347,7 @@ module.exports = [
       "水",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "roughskin",
       "speedboost"
     ],
@@ -20402,7 +20402,7 @@ module.exports = [
       "水",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "roughskin",
       "speedboost"
     ],
@@ -20458,7 +20458,7 @@ module.exports = [
       "水",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "strongjaw"
     ],
     "eggGroup": [
@@ -20510,7 +20510,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "waterveil",
       "oblivious",
       "pressure"
@@ -20564,7 +20564,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "waterveil",
       "oblivious",
       "pressure"
@@ -20620,7 +20620,7 @@ module.exports = [
       "火",
       "地"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "simple",
       "owntempo"
@@ -20674,7 +20674,7 @@ module.exports = [
       "火",
       "地"
     ],
-    "ability": [
+    "feature": [
       "magmaarmor",
       "solidrock",
       "angerpoint"
@@ -20729,7 +20729,7 @@ module.exports = [
       "火",
       "地"
     ],
-    "ability": [
+    "feature": [
       "sheerforce"
     ],
     "eggGroup": [
@@ -20779,7 +20779,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "whitesmoke",
       "drought",
       "shellarmor"
@@ -20824,7 +20824,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "owntempo",
       "gluttony"
@@ -20876,7 +20876,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "owntempo",
       "gluttony"
@@ -20928,7 +20928,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "owntempo",
       "tangledfeet",
       "contrary"
@@ -20974,7 +20974,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "arenatrap",
       "sheerforce"
@@ -21033,7 +21033,7 @@ module.exports = [
       "地",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -21090,7 +21090,7 @@ module.exports = [
       "地",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -21145,7 +21145,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "sandveil",
       "waterabsorb"
     ],
@@ -21199,7 +21199,7 @@ module.exports = [
       "草",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "sandveil",
       "waterabsorb"
     ],
@@ -21253,7 +21253,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "naturalcure",
       "cloudnine"
     ],
@@ -21308,7 +21308,7 @@ module.exports = [
       "龙",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "naturalcure",
       "cloudnine"
     ],
@@ -21364,7 +21364,7 @@ module.exports = [
       "龙",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "pixilate"
     ],
     "eggGroup": [
@@ -21416,7 +21416,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "immunity",
       "toxicboost"
     ],
@@ -21459,7 +21459,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "shedskin",
       "infiltrator"
     ],
@@ -21505,7 +21505,7 @@ module.exports = [
       "岩",
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -21549,7 +21549,7 @@ module.exports = [
       "岩",
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -21593,7 +21593,7 @@ module.exports = [
       "水",
       "地"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "anticipation",
       "hydration"
@@ -21649,7 +21649,7 @@ module.exports = [
       "水",
       "地"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "anticipation",
       "hydration"
@@ -21703,7 +21703,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "shellarmor",
       "adaptability"
@@ -21759,7 +21759,7 @@ module.exports = [
       "水",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "shellarmor",
       "adaptability"
@@ -21815,7 +21815,7 @@ module.exports = [
       "地",
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -21867,7 +21867,7 @@ module.exports = [
       "地",
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -21919,7 +21919,7 @@ module.exports = [
       "岩",
       "草"
     ],
-    "ability": [
+    "feature": [
       "suctioncups",
       "stormdrain"
     ],
@@ -21972,7 +21972,7 @@ module.exports = [
       "岩",
       "草"
     ],
-    "ability": [
+    "feature": [
       "suctioncups",
       "stormdrain"
     ],
@@ -22025,7 +22025,7 @@ module.exports = [
       "岩",
       "虫"
     ],
-    "ability": [
+    "feature": [
       "battlearmor",
       "swiftswim"
     ],
@@ -22078,7 +22078,7 @@ module.exports = [
       "岩",
       "虫"
     ],
-    "ability": [
+    "feature": [
       "battlearmor",
       "swiftswim"
     ],
@@ -22129,7 +22129,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "oblivious",
       "adaptability"
@@ -22184,7 +22184,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "marvelscale",
       "competitive",
       "cutecharm"
@@ -22239,7 +22239,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "forecast"
     ],
     "eggGroup": [
@@ -22284,7 +22284,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "forecast"
     ],
     "eggGroup": [
@@ -22329,7 +22329,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "forecast"
     ],
     "eggGroup": [
@@ -22374,7 +22374,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "forecast"
     ],
     "eggGroup": [
@@ -22418,7 +22418,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "colorchange",
       "protean"
     ],
@@ -22462,7 +22462,7 @@ module.exports = [
     "ctype": [
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "insomnia",
       "frisk",
       "cursedbody"
@@ -22514,7 +22514,7 @@ module.exports = [
     "ctype": [
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "insomnia",
       "frisk",
       "cursedbody"
@@ -22567,7 +22567,7 @@ module.exports = [
     "ctype": [
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "prankster"
     ],
     "eggGroup": [
@@ -22617,7 +22617,7 @@ module.exports = [
     "ctype": [
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "levitate",
       "frisk"
     ],
@@ -22673,7 +22673,7 @@ module.exports = [
     "ctype": [
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "frisk"
     ],
@@ -22731,7 +22731,7 @@ module.exports = [
       "草",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "solarpower",
       "harvest"
@@ -22777,7 +22777,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -22828,7 +22828,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "superluck",
       "justified"
@@ -22875,7 +22875,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "magicbounce"
     ],
     "eggGroup": [
@@ -22919,7 +22919,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "shadowtag",
       "telepathy"
     ],
@@ -22970,7 +22970,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "icebody",
       "moody"
@@ -23027,7 +23027,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "icebody",
       "moody"
@@ -23085,7 +23085,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "refrigerate"
     ],
     "eggGroup": [
@@ -23142,7 +23142,7 @@ module.exports = [
       "冰",
       "水"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "icebody",
       "oblivious"
@@ -23201,7 +23201,7 @@ module.exports = [
       "冰",
       "水"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "icebody",
       "oblivious"
@@ -23260,7 +23260,7 @@ module.exports = [
       "冰",
       "水"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "icebody",
       "oblivious"
@@ -23317,7 +23317,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "shellarmor",
       "rattled"
     ],
@@ -23370,7 +23370,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "waterveil"
     ],
@@ -23423,7 +23423,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "hydration"
     ],
@@ -23478,7 +23478,7 @@ module.exports = [
       "水",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "rockhead",
       "sturdy"
@@ -23524,7 +23524,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "hydration"
     ],
@@ -23568,7 +23568,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "sheerforce"
     ],
@@ -23624,7 +23624,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "overcoat"
     ],
@@ -23682,7 +23682,7 @@ module.exports = [
       "龙",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "moxie"
     ],
@@ -23741,7 +23741,7 @@ module.exports = [
       "龙",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "aerilate"
     ],
     "eggGroup": [
@@ -23798,7 +23798,7 @@ module.exports = [
       "钢",
       "超"
     ],
-    "ability": [
+    "feature": [
       "clearbody",
       "lightmetal"
     ],
@@ -23856,7 +23856,7 @@ module.exports = [
       "钢",
       "超"
     ],
-    "ability": [
+    "feature": [
       "clearbody",
       "lightmetal"
     ],
@@ -23914,7 +23914,7 @@ module.exports = [
       "钢",
       "超"
     ],
-    "ability": [
+    "feature": [
       "clearbody",
       "lightmetal"
     ],
@@ -23973,7 +23973,7 @@ module.exports = [
       "钢",
       "超"
     ],
-    "ability": [
+    "feature": [
       "toughclaws"
     ],
     "eggGroup": [
@@ -24028,7 +24028,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "clearbody",
       "sturdy"
     ],
@@ -24071,7 +24071,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "clearbody",
       "icebody"
     ],
@@ -24114,7 +24114,7 @@ module.exports = [
     "ctype": [
       "钢"
     ],
-    "ability": [
+    "feature": [
       "clearbody",
       "lightmetal"
     ],
@@ -24159,7 +24159,7 @@ module.exports = [
       "龙",
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -24204,7 +24204,7 @@ module.exports = [
       "龙",
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -24248,7 +24248,7 @@ module.exports = [
       "龙",
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -24293,7 +24293,7 @@ module.exports = [
       "龙",
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -24335,7 +24335,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "drizzle"
     ],
     "eggGroup": [
@@ -24378,7 +24378,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "primordialsea"
     ],
     "eggGroup": [
@@ -24420,7 +24420,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "drought"
     ],
     "eggGroup": [
@@ -24465,7 +24465,7 @@ module.exports = [
       "地",
       "火"
     ],
-    "ability": [
+    "feature": [
       "desolateland"
     ],
     "eggGroup": [
@@ -24509,7 +24509,7 @@ module.exports = [
       "龙",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "airlock"
     ],
     "eggGroup": [
@@ -24554,7 +24554,7 @@ module.exports = [
       "龙",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "deltastream"
     ],
     "eggGroup": [
@@ -24598,7 +24598,7 @@ module.exports = [
       "钢",
       "超"
     ],
-    "ability": [
+    "feature": [
       "serenegrace"
     ],
     "eggGroup": [
@@ -24640,7 +24640,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "pressure"
     ],
     "eggGroup": [
@@ -24683,7 +24683,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "pressure"
     ],
     "eggGroup": [
@@ -24726,7 +24726,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "pressure"
     ],
     "eggGroup": [
@@ -24769,7 +24769,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "pressure"
     ],
     "eggGroup": [
@@ -24811,7 +24811,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "shellarmor"
     ],
@@ -24867,7 +24867,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "shellarmor"
     ],
@@ -24925,7 +24925,7 @@ module.exports = [
       "草",
       "地"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "shellarmor"
     ],
@@ -24981,7 +24981,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "ironfist"
     ],
@@ -25039,7 +25039,7 @@ module.exports = [
       "火",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "ironfist"
     ],
@@ -25097,7 +25097,7 @@ module.exports = [
       "火",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "ironfist"
     ],
@@ -25153,7 +25153,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "defiant"
     ],
@@ -25209,7 +25209,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "defiant"
     ],
@@ -25267,7 +25267,7 @@ module.exports = [
       "水",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "defiant"
     ],
@@ -25325,7 +25325,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "reckless"
     ],
@@ -25382,7 +25382,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "reckless"
     ],
@@ -25439,7 +25439,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "reckless"
     ],
@@ -25494,7 +25494,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "simple",
       "unaware",
       "moody"
@@ -25550,7 +25550,7 @@ module.exports = [
       "一般",
       "水"
     ],
-    "ability": [
+    "feature": [
       "simple",
       "unaware",
       "moody"
@@ -25604,7 +25604,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "shedskin",
       "runaway"
     ],
@@ -25655,7 +25655,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "technician"
     ],
@@ -25706,7 +25706,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "rivalry",
       "intimidate",
       "guts"
@@ -25762,7 +25762,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "rivalry",
       "intimidate",
       "guts"
@@ -25818,7 +25818,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "rivalry",
       "intimidate",
       "guts"
@@ -25876,7 +25876,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "naturalcure",
       "poisonpoint",
       "leafguard"
@@ -25936,7 +25936,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "naturalcure",
       "poisonpoint",
       "technician"
@@ -25995,7 +25995,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "moldbreaker",
       "sheerforce"
     ],
@@ -26047,7 +26047,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "moldbreaker",
       "sheerforce"
     ],
@@ -26101,7 +26101,7 @@ module.exports = [
       "岩",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "soundproof"
     ],
@@ -26155,7 +26155,7 @@ module.exports = [
       "岩",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "soundproof"
     ],
@@ -26207,7 +26207,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "shedskin",
       "overcoat"
     ],
@@ -26263,7 +26263,7 @@ module.exports = [
       "虫",
       "草"
     ],
-    "ability": [
+    "feature": [
       "anticipation",
       "overcoat"
     ],
@@ -26320,7 +26320,7 @@ module.exports = [
       "虫",
       "地"
     ],
-    "ability": [
+    "feature": [
       "anticipation",
       "overcoat"
     ],
@@ -26377,7 +26377,7 @@ module.exports = [
       "虫",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "anticipation",
       "overcoat"
     ],
@@ -26433,7 +26433,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "tintedlens"
     ],
@@ -26489,7 +26489,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "honeygather",
       "hustle"
     ],
@@ -26543,7 +26543,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "unnerve"
     ],
@@ -26595,7 +26595,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "pickup",
       "voltabsorb"
@@ -26640,7 +26640,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "waterveil"
     ],
@@ -26692,7 +26692,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "waterveil"
     ],
@@ -26744,7 +26744,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll"
     ],
     "eggGroup": [
@@ -26795,7 +26795,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "flowergift"
     ],
     "eggGroup": [
@@ -26846,7 +26846,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "stickyhold",
       "stormdrain",
       "sandforce"
@@ -26902,7 +26902,7 @@ module.exports = [
       "水",
       "地"
     ],
-    "ability": [
+    "feature": [
       "stickyhold",
       "stormdrain",
       "sandforce"
@@ -26956,7 +26956,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "technician",
       "pickup",
       "skilllink"
@@ -27011,7 +27011,7 @@ module.exports = [
       "幽灵",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "aftermath",
       "unburden",
       "flareboost"
@@ -27066,7 +27066,7 @@ module.exports = [
       "幽灵",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "aftermath",
       "unburden",
       "flareboost"
@@ -27119,7 +27119,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "klutz",
       "limber"
@@ -27172,7 +27172,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "klutz",
       "limber"
@@ -27228,7 +27228,7 @@ module.exports = [
       "一般",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "scrappy"
     ],
     "eggGroup": [
@@ -27279,7 +27279,7 @@ module.exports = [
     "ctype": [
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -27332,7 +27332,7 @@ module.exports = [
       "恶",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "insomnia",
       "superluck",
       "moxie"
@@ -27385,7 +27385,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "limber",
       "owntempo",
       "keeneye"
@@ -27437,7 +27437,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "thickfat",
       "owntempo",
       "defiant"
@@ -27489,7 +27489,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -27542,7 +27542,7 @@ module.exports = [
       "毒",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "stench",
       "aftermath",
       "keeneye"
@@ -27596,7 +27596,7 @@ module.exports = [
       "毒",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "stench",
       "aftermath",
       "keeneye"
@@ -27650,7 +27650,7 @@ module.exports = [
       "钢",
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate",
       "heatproof",
       "heavymetal"
@@ -27704,7 +27704,7 @@ module.exports = [
       "钢",
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate",
       "heatproof",
       "heavymetal"
@@ -27756,7 +27756,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "rockhead",
       "rattled"
@@ -27811,7 +27811,7 @@ module.exports = [
       "超",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "soundproof",
       "filter",
       "technician"
@@ -27863,7 +27863,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "naturalcure",
       "serenegrace",
       "friendguard"
@@ -27922,7 +27922,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "tangledfeet",
       "bigpecks"
@@ -27968,7 +27968,7 @@ module.exports = [
       "幽灵",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "infiltrator"
     ],
@@ -28013,7 +28013,7 @@ module.exports = [
       "龙",
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandveil",
       "roughskin"
     ],
@@ -28072,7 +28072,7 @@ module.exports = [
       "龙",
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandveil",
       "roughskin"
     ],
@@ -28131,7 +28131,7 @@ module.exports = [
       "龙",
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandveil",
       "roughskin"
     ],
@@ -28191,7 +28191,7 @@ module.exports = [
       "龙",
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandforce"
     ],
     "eggGroup": [
@@ -28247,7 +28247,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "thickfat",
       "gluttony"
@@ -28301,7 +28301,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "steadfast",
       "innerfocus",
       "prankster"
@@ -28357,7 +28357,7 @@ module.exports = [
       "斗",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "steadfast",
       "innerfocus",
       "justified"
@@ -28415,7 +28415,7 @@ module.exports = [
       "斗",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "adaptability"
     ],
     "eggGroup": [
@@ -28468,7 +28468,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandstream",
       "sandforce"
     ],
@@ -28519,7 +28519,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandstream",
       "sandforce"
     ],
@@ -28572,7 +28572,7 @@ module.exports = [
       "毒",
       "虫"
     ],
-    "ability": [
+    "feature": [
       "battlearmor",
       "sniper",
       "keeneye"
@@ -28627,7 +28627,7 @@ module.exports = [
       "毒",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "battlearmor",
       "sniper",
       "keeneye"
@@ -28682,7 +28682,7 @@ module.exports = [
       "毒",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "anticipation",
       "dryskin",
       "poisontouch"
@@ -28737,7 +28737,7 @@ module.exports = [
       "毒",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "anticipation",
       "dryskin",
       "poisontouch"
@@ -28790,7 +28790,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -28832,7 +28832,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "stormdrain",
       "waterveil"
@@ -28885,7 +28885,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "stormdrain",
       "waterveil"
@@ -28940,7 +28940,7 @@ module.exports = [
       "水",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "waterabsorb",
       "waterveil"
@@ -28994,7 +28994,7 @@ module.exports = [
       "草",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "snowwarning",
       "soundproof"
     ],
@@ -29048,7 +29048,7 @@ module.exports = [
       "草",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "snowwarning",
       "soundproof"
     ],
@@ -29103,7 +29103,7 @@ module.exports = [
       "草",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "snowwarning"
     ],
     "eggGroup": [
@@ -29156,7 +29156,7 @@ module.exports = [
       "恶",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "pickpocket"
     ],
@@ -29210,7 +29210,7 @@ module.exports = [
       "电",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "magnetpull",
       "analytic"
     ],
@@ -29267,7 +29267,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "owntempo",
       "oblivious",
       "cloudnine"
@@ -29322,7 +29322,7 @@ module.exports = [
       "地",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "lightningrod",
       "solidrock",
       "reckless"
@@ -29380,7 +29380,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "leafguard",
       "regenerator"
@@ -29433,7 +29433,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "motordrive",
       "vitalspirit"
     ],
@@ -29489,7 +29489,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "flamebody",
       "vitalspirit"
     ],
@@ -29547,7 +29547,7 @@ module.exports = [
       "妖精",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "hustle",
       "serenegrace",
       "superluck"
@@ -29606,7 +29606,7 @@ module.exports = [
       "虫",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "speedboost",
       "compoundeyes",
       "frisk"
@@ -29659,7 +29659,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "leafguard",
       "chlorophyll"
     ],
@@ -29725,7 +29725,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "snowcloak",
       "icebody"
     ],
@@ -29793,7 +29793,7 @@ module.exports = [
       "地",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "sandveil",
       "poisonheal"
@@ -29847,7 +29847,7 @@ module.exports = [
       "冰",
       "地"
     ],
-    "ability": [
+    "feature": [
       "oblivious",
       "snowcloak",
       "thickfat"
@@ -29904,7 +29904,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "adaptability",
       "download",
       "analytic"
@@ -29963,7 +29963,7 @@ module.exports = [
       "超",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "steadfast",
       "justified"
     ],
@@ -30025,7 +30025,7 @@ module.exports = [
       "超",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "innerfocus"
     ],
     "eggGroup": [
@@ -30085,7 +30085,7 @@ module.exports = [
       "岩",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "magnetpull",
       "sandforce"
@@ -30139,7 +30139,7 @@ module.exports = [
     "ctype": [
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "frisk"
     ],
@@ -30197,7 +30197,7 @@ module.exports = [
       "冰",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "snowcloak",
       "cursedbody"
     ],
@@ -30255,7 +30255,7 @@ module.exports = [
       "电",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30300,7 +30300,7 @@ module.exports = [
       "电",
       "火"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30345,7 +30345,7 @@ module.exports = [
       "电",
       "水"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30390,7 +30390,7 @@ module.exports = [
       "电",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30435,7 +30435,7 @@ module.exports = [
       "电",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30480,7 +30480,7 @@ module.exports = [
       "电",
       "草"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30522,7 +30522,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30564,7 +30564,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30606,7 +30606,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30650,7 +30650,7 @@ module.exports = [
       "钢",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "telepathy"
     ],
@@ -30695,7 +30695,7 @@ module.exports = [
       "水",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "telepathy"
     ],
@@ -30740,7 +30740,7 @@ module.exports = [
       "火",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "flashfire",
       "flamebody"
     ],
@@ -30781,7 +30781,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "slowstart"
     ],
     "eggGroup": [
@@ -30823,7 +30823,7 @@ module.exports = [
       "幽灵",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "pressure",
       "telepathy"
     ],
@@ -30869,7 +30869,7 @@ module.exports = [
       "幽灵",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30911,7 +30911,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -30951,7 +30951,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "hydration"
     ],
     "eggGroup": [
@@ -31000,7 +31000,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "hydration"
     ],
     "eggGroup": [
@@ -31051,7 +31051,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "baddreams"
     ],
     "eggGroup": [
@@ -31091,7 +31091,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "naturalcure"
     ],
     "eggGroup": [
@@ -31134,7 +31134,7 @@ module.exports = [
       "草",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "serenegrace"
     ],
     "eggGroup": [
@@ -31174,7 +31174,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "multitype"
     ],
     "eggGroup": [
@@ -31216,7 +31216,7 @@ module.exports = [
       "超",
       "火"
     ],
-    "ability": [
+    "feature": [
       "victorystar"
     ],
     "eggGroup": [
@@ -31258,7 +31258,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "contrary"
     ],
@@ -31314,7 +31314,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "contrary"
     ],
@@ -31370,7 +31370,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "contrary"
     ],
@@ -31426,7 +31426,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "thickfat"
     ],
@@ -31483,7 +31483,7 @@ module.exports = [
       "火",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "thickfat"
     ],
@@ -31540,7 +31540,7 @@ module.exports = [
       "火",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "reckless"
     ],
@@ -31595,7 +31595,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "shellarmor"
     ],
@@ -31650,7 +31650,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "shellarmor"
     ],
@@ -31705,7 +31705,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "shellarmor"
     ],
@@ -31760,7 +31760,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "runaway",
       "keeneye",
       "analytic"
@@ -31812,7 +31812,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "illuminate",
       "keeneye",
       "analytic"
@@ -31864,7 +31864,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "vitalspirit",
       "pickup",
       "runaway"
@@ -31921,7 +31921,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "sandrush",
       "scrappy"
@@ -31978,7 +31978,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "sandrush",
       "scrappy"
@@ -32035,7 +32035,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "limber",
       "unburden",
       "prankster"
@@ -32087,7 +32087,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "limber",
       "unburden",
       "prankster"
@@ -32139,7 +32139,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "gluttony",
       "overgrow"
     ],
@@ -32191,7 +32191,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "gluttony",
       "overgrow"
     ],
@@ -32243,7 +32243,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "gluttony",
       "blaze"
     ],
@@ -32295,7 +32295,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "gluttony",
       "blaze"
     ],
@@ -32347,7 +32347,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "gluttony",
       "torrent"
     ],
@@ -32399,7 +32399,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "gluttony",
       "torrent"
     ],
@@ -32451,7 +32451,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "forewarn",
       "synchronize",
       "telepathy"
@@ -32503,7 +32503,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "forewarn",
       "synchronize",
       "telepathy"
@@ -32557,7 +32557,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "bigpecks",
       "superluck",
       "rivalry"
@@ -32615,7 +32615,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "bigpecks",
       "superluck",
       "rivalry"
@@ -32672,7 +32672,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "bigpecks",
       "superluck",
       "rivalry"
@@ -32728,7 +32728,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "lightningrod",
       "motordrive",
       "sapsipper"
@@ -32780,7 +32780,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "lightningrod",
       "motordrive",
       "sapsipper"
@@ -32832,7 +32832,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "weakarmor",
       "sandforce"
@@ -32889,7 +32889,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "weakarmor",
       "sandforce"
@@ -32946,7 +32946,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "sandstream",
       "sandforce"
@@ -33005,7 +33005,7 @@ module.exports = [
       "超",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "unaware",
       "klutz",
       "simple"
@@ -33060,7 +33060,7 @@ module.exports = [
       "超",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "unaware",
       "klutz",
       "simple"
@@ -33113,7 +33113,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "sandrush",
       "sandforce",
       "moldbreaker"
@@ -33167,7 +33167,7 @@ module.exports = [
       "地",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "sandrush",
       "sandforce",
       "moldbreaker"
@@ -33219,7 +33219,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "healer",
       "regenerator",
       "klutz"
@@ -33267,7 +33267,7 @@ module.exports = [
       "一般",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "healer"
     ],
     "eggGroup": [
@@ -33310,7 +33310,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "sheerforce",
       "ironfist"
@@ -33366,7 +33366,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "sheerforce",
       "ironfist"
@@ -33422,7 +33422,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "sheerforce",
       "ironfist"
@@ -33478,7 +33478,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "hydration",
       "waterabsorb"
@@ -33536,7 +33536,7 @@ module.exports = [
       "水",
       "地"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "hydration",
       "waterabsorb"
@@ -33594,7 +33594,7 @@ module.exports = [
       "水",
       "地"
     ],
-    "ability": [
+    "feature": [
       "swiftswim",
       "poisontouch",
       "waterabsorb"
@@ -33650,7 +33650,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "guts",
       "innerfocus",
       "moldbreaker"
@@ -33694,7 +33694,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "innerfocus",
       "moldbreaker"
@@ -33740,7 +33740,7 @@ module.exports = [
       "虫",
       "草"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "chlorophyll",
       "overcoat"
@@ -33798,7 +33798,7 @@ module.exports = [
       "虫",
       "草"
     ],
-    "ability": [
+    "feature": [
       "leafguard",
       "chlorophyll",
       "overcoat"
@@ -33856,7 +33856,7 @@ module.exports = [
       "虫",
       "草"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "chlorophyll",
       "overcoat"
@@ -33914,7 +33914,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "swarm",
       "speedboost"
@@ -33973,7 +33973,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "swarm",
       "speedboost"
@@ -34032,7 +34032,7 @@ module.exports = [
       "虫",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "swarm",
       "speedboost"
@@ -34091,7 +34091,7 @@ module.exports = [
       "草",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "prankster",
       "infiltrator",
       "chlorophyll"
@@ -34147,7 +34147,7 @@ module.exports = [
       "草",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "prankster",
       "infiltrator",
       "chlorophyll"
@@ -34201,7 +34201,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "owntempo",
       "leafguard"
@@ -34254,7 +34254,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "owntempo",
       "leafguard"
@@ -34307,7 +34307,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "reckless",
       "adaptability",
       "moldbreaker"
@@ -34352,7 +34352,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "rockhead",
       "adaptability",
       "moldbreaker"
@@ -34398,7 +34398,7 @@ module.exports = [
       "地",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "moxie",
       "angerpoint"
@@ -34457,7 +34457,7 @@ module.exports = [
       "地",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "moxie",
       "angerpoint"
@@ -34516,7 +34516,7 @@ module.exports = [
       "地",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "intimidate",
       "moxie",
       "angerpoint"
@@ -34573,7 +34573,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "hustle",
       "innerfocus"
     ],
@@ -34624,7 +34624,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "sheerforce",
       "zenmode"
     ],
@@ -34678,7 +34678,7 @@ module.exports = [
       "火",
       "超"
     ],
-    "ability": [
+    "feature": [
       "sheerforce",
       "zenmode"
     ],
@@ -34729,7 +34729,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "waterabsorb",
       "chlorophyll",
       "stormdrain"
@@ -34775,7 +34775,7 @@ module.exports = [
       "虫",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "shellarmor",
       "weakarmor"
@@ -34830,7 +34830,7 @@ module.exports = [
       "虫",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "sturdy",
       "shellarmor",
       "weakarmor"
@@ -34885,7 +34885,7 @@ module.exports = [
       "恶",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "shedskin",
       "moxie",
       "intimidate"
@@ -34941,7 +34941,7 @@ module.exports = [
       "恶",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "shedskin",
       "moxie",
       "intimidate"
@@ -34997,7 +34997,7 @@ module.exports = [
       "超",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "wonderskin",
       "magicguard",
       "tintedlens"
@@ -35041,7 +35041,7 @@ module.exports = [
     "ctype": [
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "mummy"
     ],
     "eggGroup": [
@@ -35092,7 +35092,7 @@ module.exports = [
     "ctype": [
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "mummy"
     ],
     "eggGroup": [
@@ -35145,7 +35145,7 @@ module.exports = [
       "水",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "solidrock",
       "sturdy",
       "swiftswim"
@@ -35201,7 +35201,7 @@ module.exports = [
       "水",
       "岩"
     ],
-    "ability": [
+    "feature": [
       "solidrock",
       "sturdy",
       "swiftswim"
@@ -35257,7 +35257,7 @@ module.exports = [
       "岩",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "defeatist"
     ],
     "eggGroup": [
@@ -35311,7 +35311,7 @@ module.exports = [
       "岩",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "defeatist"
     ],
     "eggGroup": [
@@ -35363,7 +35363,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "stench",
       "stickyhold",
       "aftermath"
@@ -35416,7 +35416,7 @@ module.exports = [
     "ctype": [
       "毒"
     ],
-    "ability": [
+    "feature": [
       "stench",
       "weakarmor",
       "aftermath"
@@ -35469,7 +35469,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "illusion"
     ],
     "eggGroup": [
@@ -35519,7 +35519,7 @@ module.exports = [
     "ctype": [
       "恶"
     ],
-    "ability": [
+    "feature": [
       "illusion"
     ],
     "eggGroup": [
@@ -35569,7 +35569,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "technician",
       "skilllink"
@@ -35621,7 +35621,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "technician",
       "skilllink"
@@ -35673,7 +35673,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "frisk",
       "competitive",
       "shadowtag"
@@ -35729,7 +35729,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "frisk",
       "competitive",
       "shadowtag"
@@ -35785,7 +35785,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "frisk",
       "competitive",
       "shadowtag"
@@ -35841,7 +35841,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "overcoat",
       "magicguard",
       "regenerator"
@@ -35897,7 +35897,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "overcoat",
       "magicguard",
       "regenerator"
@@ -35953,7 +35953,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "overcoat",
       "magicguard",
       "regenerator"
@@ -36011,7 +36011,7 @@ module.exports = [
       "水",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "bigpecks",
       "hydration"
@@ -36067,7 +36067,7 @@ module.exports = [
       "水",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "bigpecks",
       "hydration"
@@ -36121,7 +36121,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "icebody",
       "snowcloak",
       "weakarmor"
@@ -36178,7 +36178,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "icebody",
       "snowcloak",
       "weakarmor"
@@ -36235,7 +36235,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "icebody",
       "snowwarning",
       "weakarmor"
@@ -36294,7 +36294,7 @@ module.exports = [
       "一般",
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "sapsipper",
       "serenegrace"
@@ -36348,7 +36348,7 @@ module.exports = [
       "一般",
       "草"
     ],
-    "ability": [
+    "feature": [
       "chlorophyll",
       "sapsipper",
       "serenegrace"
@@ -36402,7 +36402,7 @@ module.exports = [
       "电",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "static",
       "motordrive"
     ],
@@ -36446,7 +36446,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "shedskin",
       "noguard"
@@ -36500,7 +36500,7 @@ module.exports = [
       "虫",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "shellarmor",
       "overcoat"
@@ -36554,7 +36554,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "effectspore",
       "regenerator"
     ],
@@ -36607,7 +36607,7 @@ module.exports = [
       "草",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "effectspore",
       "regenerator"
     ],
@@ -36659,7 +36659,7 @@ module.exports = [
       "水",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "waterabsorb",
       "cursedbody",
       "damp"
@@ -36710,7 +36710,7 @@ module.exports = [
       "水",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "waterabsorb",
       "cursedbody",
       "damp"
@@ -36760,7 +36760,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "healer",
       "hydration",
       "regenerator"
@@ -36808,7 +36808,7 @@ module.exports = [
       "虫",
       "电"
     ],
-    "ability": [
+    "feature": [
       "compoundeyes",
       "unnerve",
       "swarm"
@@ -36862,7 +36862,7 @@ module.exports = [
       "虫",
       "电"
     ],
-    "ability": [
+    "feature": [
       "compoundeyes",
       "unnerve",
       "swarm"
@@ -36916,7 +36916,7 @@ module.exports = [
       "草",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "ironbarbs"
     ],
     "eggGroup": [
@@ -36969,7 +36969,7 @@ module.exports = [
       "草",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "ironbarbs",
       "anticipation"
     ],
@@ -37021,7 +37021,7 @@ module.exports = [
     "ctype": [
       "钢"
     ],
-    "ability": [
+    "feature": [
       "plus",
       "minus",
       "clearbody"
@@ -37077,7 +37077,7 @@ module.exports = [
     "ctype": [
       "钢"
     ],
-    "ability": [
+    "feature": [
       "plus",
       "minus",
       "clearbody"
@@ -37133,7 +37133,7 @@ module.exports = [
     "ctype": [
       "钢"
     ],
-    "ability": [
+    "feature": [
       "plus",
       "minus",
       "clearbody"
@@ -37189,7 +37189,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -37243,7 +37243,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -37297,7 +37297,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -37351,7 +37351,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "telepathy",
       "synchronize",
       "analytic"
@@ -37403,7 +37403,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "telepathy",
       "synchronize",
       "analytic"
@@ -37457,7 +37457,7 @@ module.exports = [
       "幽灵",
       "火"
     ],
-    "ability": [
+    "feature": [
       "flashfire",
       "flamebody",
       "infiltrator"
@@ -37515,7 +37515,7 @@ module.exports = [
       "幽灵",
       "火"
     ],
-    "ability": [
+    "feature": [
       "flashfire",
       "flamebody",
       "infiltrator"
@@ -37573,7 +37573,7 @@ module.exports = [
       "幽灵",
       "火"
     ],
-    "ability": [
+    "feature": [
       "flashfire",
       "flamebody",
       "infiltrator"
@@ -37629,7 +37629,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "rivalry",
       "moldbreaker",
       "unnerve"
@@ -37687,7 +37687,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "rivalry",
       "moldbreaker",
       "unnerve"
@@ -37745,7 +37745,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "rivalry",
       "moldbreaker",
       "unnerve"
@@ -37803,7 +37803,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "snowcloak",
       "slushrush",
       "rattled"
@@ -37855,7 +37855,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "snowcloak",
       "slushrush",
       "swiftswim"
@@ -37907,7 +37907,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -37949,7 +37949,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "hydration",
       "shellarmor",
       "overcoat"
@@ -38001,7 +38001,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "hydration",
       "stickyhold",
       "unburden"
@@ -38055,7 +38055,7 @@ module.exports = [
       "地",
       "电"
     ],
-    "ability": [
+    "feature": [
       "static",
       "limber",
       "sandveil"
@@ -38100,7 +38100,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "regenerator",
       "reckless"
@@ -38153,7 +38153,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "regenerator",
       "reckless"
@@ -38206,7 +38206,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "roughskin",
       "sheerforce",
       "moldbreaker"
@@ -38253,7 +38253,7 @@ module.exports = [
       "地",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "ironfist",
       "klutz",
       "noguard"
@@ -38307,7 +38307,7 @@ module.exports = [
       "地",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "ironfist",
       "klutz",
       "noguard"
@@ -38361,7 +38361,7 @@ module.exports = [
       "恶",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "defiant",
       "innerfocus",
       "pressure"
@@ -38415,7 +38415,7 @@ module.exports = [
       "恶",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "defiant",
       "innerfocus",
       "pressure"
@@ -38467,7 +38467,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "reckless",
       "sapsipper",
       "soundproof"
@@ -38513,7 +38513,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "sheerforce",
       "hustle"
@@ -38568,7 +38568,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "sheerforce",
       "defiant"
@@ -38623,7 +38623,7 @@ module.exports = [
       "恶",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "bigpecks",
       "overcoat",
       "weakarmor"
@@ -38678,7 +38678,7 @@ module.exports = [
       "恶",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "bigpecks",
       "overcoat",
       "weakarmor"
@@ -38731,7 +38731,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "gluttony",
       "flashfire",
       "whitesmoke"
@@ -38777,7 +38777,7 @@ module.exports = [
       "虫",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "swarm",
       "hustle",
       "truant"
@@ -38823,7 +38823,7 @@ module.exports = [
       "恶",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "hustle"
     ],
     "eggGroup": [
@@ -38879,7 +38879,7 @@ module.exports = [
       "恶",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "hustle"
     ],
     "eggGroup": [
@@ -38935,7 +38935,7 @@ module.exports = [
       "恶",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -38991,7 +38991,7 @@ module.exports = [
       "虫",
       "火"
     ],
-    "ability": [
+    "feature": [
       "flamebody",
       "swarm"
     ],
@@ -39044,7 +39044,7 @@ module.exports = [
       "虫",
       "火"
     ],
-    "ability": [
+    "feature": [
       "flamebody",
       "swarm"
     ],
@@ -39097,7 +39097,7 @@ module.exports = [
       "钢",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "justified"
     ],
     "eggGroup": [
@@ -39141,7 +39141,7 @@ module.exports = [
       "岩",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "justified"
     ],
     "eggGroup": [
@@ -39185,7 +39185,7 @@ module.exports = [
       "草",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "justified"
     ],
     "eggGroup": [
@@ -39227,7 +39227,7 @@ module.exports = [
     "ctype": [
       "飞"
     ],
-    "ability": [
+    "feature": [
       "prankster",
       "defiant"
     ],
@@ -39271,7 +39271,7 @@ module.exports = [
     "ctype": [
       "飞"
     ],
-    "ability": [
+    "feature": [
       "regenerator"
     ],
     "eggGroup": [
@@ -39315,7 +39315,7 @@ module.exports = [
       "电",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "prankster",
       "defiant"
     ],
@@ -39361,7 +39361,7 @@ module.exports = [
       "电",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "voltabsorb"
     ],
     "eggGroup": [
@@ -39405,7 +39405,7 @@ module.exports = [
       "龙",
       "火"
     ],
-    "ability": [
+    "feature": [
       "turboblaze"
     ],
     "eggGroup": [
@@ -39449,7 +39449,7 @@ module.exports = [
       "龙",
       "电"
     ],
-    "ability": [
+    "feature": [
       "teravolt"
     ],
     "eggGroup": [
@@ -39493,7 +39493,7 @@ module.exports = [
       "地",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "sandforce",
       "sheerforce"
     ],
@@ -39539,7 +39539,7 @@ module.exports = [
       "地",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "intimidate"
     ],
     "eggGroup": [
@@ -39583,7 +39583,7 @@ module.exports = [
       "龙",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "pressure"
     ],
     "eggGroup": [
@@ -39628,7 +39628,7 @@ module.exports = [
       "龙",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "teravolt"
     ],
     "eggGroup": [
@@ -39673,7 +39673,7 @@ module.exports = [
       "龙",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "turboblaze"
     ],
     "eggGroup": [
@@ -39717,7 +39717,7 @@ module.exports = [
       "水",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "justified"
     ],
     "eggGroup": [
@@ -39761,7 +39761,7 @@ module.exports = [
       "一般",
       "超"
     ],
-    "ability": [
+    "feature": [
       "serenegrace"
     ],
     "eggGroup": [
@@ -39806,7 +39806,7 @@ module.exports = [
       "一般",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "serenegrace"
     ],
     "eggGroup": [
@@ -39850,7 +39850,7 @@ module.exports = [
       "虫",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "download"
     ],
     "eggGroup": [
@@ -39892,7 +39892,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "bulletproof"
     ],
@@ -39947,7 +39947,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "bulletproof"
     ],
@@ -40004,7 +40004,7 @@ module.exports = [
       "草",
       "格斗"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "bulletproof"
     ],
@@ -40059,7 +40059,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "magician"
     ],
@@ -40114,7 +40114,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "magician"
     ],
@@ -40171,7 +40171,7 @@ module.exports = [
       "火",
       "超"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "magician"
     ],
@@ -40226,7 +40226,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "protean"
     ],
@@ -40281,7 +40281,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "protean"
     ],
@@ -40338,7 +40338,7 @@ module.exports = [
       "水",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "protean"
     ],
@@ -40393,7 +40393,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "cheekpouch",
       "hugepower"
@@ -40447,7 +40447,7 @@ module.exports = [
       "一般",
       "地面"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "cheekpouch",
       "hugepower"
@@ -40501,7 +40501,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "bigpecks",
       "galewings"
     ],
@@ -40558,7 +40558,7 @@ module.exports = [
       "火",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "flamebody",
       "galewings"
     ],
@@ -40615,7 +40615,7 @@ module.exports = [
       "火",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "flamebody",
       "galewings"
     ],
@@ -40671,7 +40671,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "shielddust",
       "compoundeyes",
       "friendguard"
@@ -40728,7 +40728,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "shedskin",
       "friendguard"
     ],
@@ -40786,7 +40786,7 @@ module.exports = [
       "虫",
       "飞行"
     ],
-    "ability": [
+    "feature": [
       "shielddust",
       "compoundeyes",
       "friendguard"
@@ -40845,7 +40845,7 @@ module.exports = [
       "火",
       "一般"
     ],
-    "ability": [
+    "feature": [
       "rivalry",
       "unnerve",
       "moxie"
@@ -40900,7 +40900,7 @@ module.exports = [
       "火",
       "一般"
     ],
-    "ability": [
+    "feature": [
       "rivalry",
       "unnerve",
       "moxie"
@@ -40953,7 +40953,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "flowerveil",
       "symbiosis"
     ],
@@ -41008,7 +41008,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "flowerveil",
       "symbiosis"
     ],
@@ -41064,7 +41064,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "flowerveil",
       "symbiosis"
     ],
@@ -41119,7 +41119,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "flowerveil",
       "symbiosis"
     ],
@@ -41174,7 +41174,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "sapsipper",
       "grasspelt"
     ],
@@ -41225,7 +41225,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "sapsipper",
       "grasspelt"
     ],
@@ -41276,7 +41276,7 @@ module.exports = [
     "ctype": [
       "斗"
     ],
-    "ability": [
+    "feature": [
       "ironfist",
       "moldbreaker",
       "scrappy"
@@ -41332,7 +41332,7 @@ module.exports = [
       "斗",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "ironfist",
       "moldbreaker",
       "scrappy"
@@ -41386,7 +41386,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "furcoat"
     ],
     "eggGroup": [
@@ -41428,7 +41428,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "infiltrator",
       "owntempo"
@@ -41481,7 +41481,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "infiltrator",
       "prankster"
@@ -41535,7 +41535,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "infiltrator",
       "competitive"
@@ -41590,7 +41590,7 @@ module.exports = [
       "钢",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "noguard"
     ],
     "eggGroup": [
@@ -41646,7 +41646,7 @@ module.exports = [
       "钢",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "noguard"
     ],
     "eggGroup": [
@@ -41702,7 +41702,7 @@ module.exports = [
       "钢",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "stancechange"
     ],
     "eggGroup": [
@@ -41759,7 +41759,7 @@ module.exports = [
       "钢",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "stancechange"
     ],
     "eggGroup": [
@@ -41813,7 +41813,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "healer",
       "aromaveil"
     ],
@@ -41864,7 +41864,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "healer",
       "aromaveil"
     ],
@@ -41915,7 +41915,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "sweetveil",
       "unburden"
     ],
@@ -41966,7 +41966,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "sweetveil",
       "unburden"
     ],
@@ -42019,7 +42019,7 @@ module.exports = [
       "恶",
       "超"
     ],
-    "ability": [
+    "feature": [
       "contrary",
       "suctioncups",
       "infiltrator"
@@ -42074,7 +42074,7 @@ module.exports = [
       "恶",
       "超"
     ],
-    "ability": [
+    "feature": [
       "contrary",
       "suctioncups",
       "infiltrator"
@@ -42129,7 +42129,7 @@ module.exports = [
       "岩石",
       "水"
     ],
-    "ability": [
+    "feature": [
       "toughclaws",
       "sniper",
       "pickpocket"
@@ -42181,7 +42181,7 @@ module.exports = [
       "岩石",
       "水"
     ],
-    "ability": [
+    "feature": [
       "toughclaws",
       "sniper",
       "pickpocket"
@@ -42233,7 +42233,7 @@ module.exports = [
       "毒",
       "水"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "poisontouch",
       "adaptability"
@@ -42286,7 +42286,7 @@ module.exports = [
       "毒",
       "水"
     ],
-    "ability": [
+    "feature": [
       "poisonpoint",
       "poisontouch",
       "adaptability"
@@ -42337,7 +42337,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "megalauncher"
     ],
     "eggGroup": [
@@ -42386,7 +42386,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "megalauncher"
     ],
     "eggGroup": [
@@ -42437,7 +42437,7 @@ module.exports = [
       "电",
       "一般"
     ],
-    "ability": [
+    "feature": [
       "dryskin",
       "sandveil",
       "solarpower"
@@ -42490,7 +42490,7 @@ module.exports = [
       "电",
       "一般"
     ],
-    "ability": [
+    "feature": [
       "dryskin",
       "sandveil",
       "solarpower"
@@ -42543,7 +42543,7 @@ module.exports = [
       "岩",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "strongjaw",
       "sturdy"
     ],
@@ -42595,7 +42595,7 @@ module.exports = [
       "岩",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "strongjaw",
       "rockhead"
     ],
@@ -42647,7 +42647,7 @@ module.exports = [
       "岩",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "refrigerate",
       "snowwarning"
     ],
@@ -42698,7 +42698,7 @@ module.exports = [
       "岩",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "refrigerate",
       "snowwarning"
     ],
@@ -42747,7 +42747,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "cutecharm",
       "pixilate"
     ],
@@ -42815,7 +42815,7 @@ module.exports = [
       "斗",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "limber",
       "unburden",
       "moldbreaker"
@@ -42861,7 +42861,7 @@ module.exports = [
       "电",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "cheekpouch",
       "pickup",
       "plus"
@@ -42908,7 +42908,7 @@ module.exports = [
       "岩",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "clearbody",
       "sturdy"
     ],
@@ -42952,7 +42952,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "sapsipper",
       "hydration",
       "gooey"
@@ -43009,7 +43009,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "sapsipper",
       "hydration",
       "gooey"
@@ -43066,7 +43066,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "sapsipper",
       "hydration",
       "gooey"
@@ -43125,7 +43125,7 @@ module.exports = [
       "钢",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "prankster",
       "magician"
     ],
@@ -43170,7 +43170,7 @@ module.exports = [
       "幽灵",
       "草"
     ],
-    "ability": [
+    "feature": [
       "naturalcure",
       "frisk",
       "harvest"
@@ -43226,7 +43226,7 @@ module.exports = [
       "幽灵",
       "草"
     ],
-    "ability": [
+    "feature": [
       "naturalcure",
       "frisk",
       "harvest"
@@ -43282,7 +43282,7 @@ module.exports = [
       "幽灵",
       "草"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "frisk",
       "insomnia"
@@ -43334,7 +43334,7 @@ module.exports = [
       "幽灵",
       "草"
     ],
-    "ability": [
+    "feature": [
       "pickup",
       "frisk",
       "insomnia"
@@ -43384,7 +43384,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "owntempo",
       "icebody",
       "sturdy"
@@ -43434,7 +43434,7 @@ module.exports = [
     "ctype": [
       "冰"
     ],
-    "ability": [
+    "feature": [
       "owntempo",
       "icebody",
       "sturdy"
@@ -43486,7 +43486,7 @@ module.exports = [
       "飞",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "frisk",
       "infiltrator",
       "telepathy"
@@ -43540,7 +43540,7 @@ module.exports = [
       "飞",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "frisk",
       "infiltrator",
       "telepathy"
@@ -43592,7 +43592,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "fairyaura"
     ],
     "eggGroup": [
@@ -43634,7 +43634,7 @@ module.exports = [
       "恶",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "darkaura"
     ],
     "eggGroup": [
@@ -43676,7 +43676,7 @@ module.exports = [
       "龙",
       "地"
     ],
-    "ability": [
+    "feature": [
       "aurabreak"
     ],
     "eggGroup": [
@@ -43719,7 +43719,7 @@ module.exports = [
       "龙",
       "地"
     ],
-    "ability": [
+    "feature": [
       "aurabreak",
       "powerconstruct"
     ],
@@ -43763,7 +43763,7 @@ module.exports = [
       "龙",
       "地"
     ],
-    "ability": [
+    "feature": [
       "powerconstruct"
     ],
     "eggGroup": [
@@ -43805,7 +43805,7 @@ module.exports = [
       "岩",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "clearbody"
     ],
     "eggGroup": [
@@ -43850,7 +43850,7 @@ module.exports = [
       "岩",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "magicbounce"
     ],
     "eggGroup": [
@@ -43894,7 +43894,7 @@ module.exports = [
       "超",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "magician"
     ],
     "eggGroup": [
@@ -43939,7 +43939,7 @@ module.exports = [
       "超",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "magician"
     ],
     "eggGroup": [
@@ -43983,7 +43983,7 @@ module.exports = [
       "火",
       "水"
     ],
-    "ability": [
+    "feature": [
       "waterabsorb"
     ],
     "eggGroup": [
@@ -44027,7 +44027,7 @@ module.exports = [
       "草",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "longreach"
     ],
@@ -44084,7 +44084,7 @@ module.exports = [
       "草",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "longreach"
     ],
@@ -44141,7 +44141,7 @@ module.exports = [
       "草",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "overgrow",
       "longreach"
     ],
@@ -44196,7 +44196,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "intimidate"
     ],
@@ -44251,7 +44251,7 @@ module.exports = [
     "ctype": [
       "火"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "intimidate"
     ],
@@ -44308,7 +44308,7 @@ module.exports = [
       "火",
       "恶"
     ],
-    "ability": [
+    "feature": [
       "blaze",
       "intimidate"
     ],
@@ -44363,7 +44363,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "liquidvoice"
     ],
@@ -44419,7 +44419,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "liquidvoice"
     ],
@@ -44477,7 +44477,7 @@ module.exports = [
       "水",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "torrent",
       "liquidvoice"
     ],
@@ -44535,7 +44535,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "skilllink",
       "pickup"
@@ -44593,7 +44593,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "skilllink",
       "pickup"
@@ -44651,7 +44651,7 @@ module.exports = [
       "一般",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "skilllink",
       "sheerforce"
@@ -44707,7 +44707,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "stakeout",
       "strongjaw",
       "adaptability"
@@ -44759,7 +44759,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "stakeout",
       "strongjaw",
       "adaptability"
@@ -44811,7 +44811,7 @@ module.exports = [
     "ctype": [
       "虫"
     ],
-    "ability": [
+    "feature": [
       "swarm"
     ],
     "eggGroup": [
@@ -44867,7 +44867,7 @@ module.exports = [
       "虫",
       "电"
     ],
-    "ability": [
+    "feature": [
       "battery"
     ],
     "eggGroup": [
@@ -44923,7 +44923,7 @@ module.exports = [
       "虫",
       "电"
     ],
-    "ability": [
+    "feature": [
       "levitate"
     ],
     "eggGroup": [
@@ -44977,7 +44977,7 @@ module.exports = [
     "ctype": [
       "格斗"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "ironfist",
       "angerpoint"
@@ -45031,7 +45031,7 @@ module.exports = [
       "格斗",
       "冰"
     ],
-    "ability": [
+    "feature": [
       "hypercutter",
       "ironfist",
       "angerpoint"
@@ -45085,7 +45085,7 @@ module.exports = [
       "火",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "dancer"
     ],
     "eggGroup": [
@@ -45130,7 +45130,7 @@ module.exports = [
       "电",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "dancer"
     ],
     "eggGroup": [
@@ -45175,7 +45175,7 @@ module.exports = [
       "超",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "dancer"
     ],
     "eggGroup": [
@@ -45220,7 +45220,7 @@ module.exports = [
       "幽灵",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "dancer"
     ],
     "eggGroup": [
@@ -45264,7 +45264,7 @@ module.exports = [
       "虫",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "honeygather",
       "shielddust",
       "sweetveil"
@@ -45319,7 +45319,7 @@ module.exports = [
       "虫",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "honeygather",
       "shielddust",
       "sweetveil"
@@ -45372,7 +45372,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "vitalspirit",
       "steadfast"
@@ -45424,7 +45424,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "sandrush",
       "steadfast"
@@ -45477,7 +45477,7 @@ module.exports = [
     "ctype": [
       "岩"
     ],
-    "ability": [
+    "feature": [
       "keeneye",
       "vitalspirit",
       "noguard"
@@ -45529,7 +45529,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "schooling"
     ],
     "eggGroup": [
@@ -45572,7 +45572,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "schooling"
     ],
     "eggGroup": [
@@ -45616,7 +45616,7 @@ module.exports = [
       "毒",
       "水"
     ],
-    "ability": [
+    "feature": [
       "merciless",
       "limber",
       "regenerator"
@@ -45670,7 +45670,7 @@ module.exports = [
       "毒",
       "水"
     ],
-    "ability": [
+    "feature": [
       "merciless",
       "limber",
       "regenerator"
@@ -45722,7 +45722,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "owntempo",
       "stamina",
       "innerfocus"
@@ -45774,7 +45774,7 @@ module.exports = [
     "ctype": [
       "地"
     ],
-    "ability": [
+    "feature": [
       "owntempo",
       "stamina",
       "innerfocus"
@@ -45828,7 +45828,7 @@ module.exports = [
       "水",
       "虫"
     ],
-    "ability": [
+    "feature": [
       "waterbubble",
       "waterabsorb"
     ],
@@ -45882,7 +45882,7 @@ module.exports = [
       "水",
       "虫"
     ],
-    "ability": [
+    "feature": [
       "waterbubble",
       "waterabsorb"
     ],
@@ -45934,7 +45934,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "leafguard",
       "contrary"
     ],
@@ -45985,7 +45985,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "leafguard",
       "contrary"
     ],
@@ -46038,7 +46038,7 @@ module.exports = [
       "草",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "illuminate",
       "effectspore",
       "raindish"
@@ -46092,7 +46092,7 @@ module.exports = [
       "草",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "illuminate",
       "effectspore",
       "raindish"
@@ -46146,7 +46146,7 @@ module.exports = [
       "毒",
       "火"
     ],
-    "ability": [
+    "feature": [
       "corrosion",
       "oblivious"
     ],
@@ -46200,7 +46200,7 @@ module.exports = [
       "毒",
       "火"
     ],
-    "ability": [
+    "feature": [
       "corrosion",
       "oblivious"
     ],
@@ -46254,7 +46254,7 @@ module.exports = [
       "一般",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "fluffy",
       "klutz",
       "cutecharm"
@@ -46308,7 +46308,7 @@ module.exports = [
       "一般",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "fluffy",
       "klutz",
       "unnerve"
@@ -46360,7 +46360,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "leafguard",
       "oblivious",
       "sweetveil"
@@ -46416,7 +46416,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "leafguard",
       "oblivious",
       "sweetveil"
@@ -46472,7 +46472,7 @@ module.exports = [
     "ctype": [
       "草"
     ],
-    "ability": [
+    "feature": [
       "leafguard",
       "queenlymajesty",
       "sweetveil"
@@ -46528,7 +46528,7 @@ module.exports = [
     "ctype": [
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "flowerveil",
       "triage",
       "naturalcure"
@@ -46574,7 +46574,7 @@ module.exports = [
       "一般",
       "超"
     ],
-    "ability": [
+    "feature": [
       "innerfocus",
       "telepathy",
       "symbiosis"
@@ -46618,7 +46618,7 @@ module.exports = [
     "ctype": [
       "格斗"
     ],
-    "ability": [
+    "feature": [
       "receiver",
       "defiant"
     ],
@@ -46663,7 +46663,7 @@ module.exports = [
       "虫",
       "水"
     ],
-    "ability": [
+    "feature": [
       "wimpout"
     ],
     "eggGroup": [
@@ -46716,7 +46716,7 @@ module.exports = [
       "虫",
       "水"
     ],
-    "ability": [
+    "feature": [
       "emergencyexit"
     ],
     "eggGroup": [
@@ -46769,7 +46769,7 @@ module.exports = [
       "幽灵",
       "地"
     ],
-    "ability": [
+    "feature": [
       "watercompaction",
       "sandveil"
     ],
@@ -46822,7 +46822,7 @@ module.exports = [
       "幽灵",
       "地"
     ],
-    "ability": [
+    "feature": [
       "watercompaction",
       "sandveil"
     ],
@@ -46873,7 +46873,7 @@ module.exports = [
     "ctype": [
       "水"
     ],
-    "ability": [
+    "feature": [
       "innardsout",
       "unaware"
     ],
@@ -46916,7 +46916,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "battlearmor"
     ],
     "eggGroup": [
@@ -46966,7 +46966,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "rkssystem"
     ],
     "eggGroup": [
@@ -47018,7 +47018,7 @@ module.exports = [
       "岩",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "shieldsdown"
     ],
     "eggGroup": [
@@ -47060,7 +47060,7 @@ module.exports = [
     "ctype": [
       "一般"
     ],
-    "ability": [
+    "feature": [
       "comatose"
     ],
     "eggGroup": [
@@ -47104,7 +47104,7 @@ module.exports = [
       "火",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "shellarmor"
     ],
     "eggGroup": [
@@ -47149,7 +47149,7 @@ module.exports = [
       "电",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "ironbarbs",
       "lightningrod",
       "sturdy"
@@ -47196,7 +47196,7 @@ module.exports = [
       "幽灵",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "disguise"
     ],
     "eggGroup": [
@@ -47240,7 +47240,7 @@ module.exports = [
       "水",
       "超"
     ],
-    "ability": [
+    "feature": [
       "dazzling",
       "strongjaw",
       "wonderskin"
@@ -47286,7 +47286,7 @@ module.exports = [
       "一般",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "berserk",
       "sapsipper",
       "cloudnine"
@@ -47333,7 +47333,7 @@ module.exports = [
       "幽灵",
       "草"
     ],
-    "ability": [
+    "feature": [
       "steelworker"
     ],
     "eggGroup": [
@@ -47375,7 +47375,7 @@ module.exports = [
     "ctype": [
       "龙"
     ],
-    "ability": [
+    "feature": [
       "bulletproof",
       "soundproof",
       "overcoat"
@@ -47433,7 +47433,7 @@ module.exports = [
       "龙",
       "格斗"
     ],
-    "ability": [
+    "feature": [
       "bulletproof",
       "soundproof",
       "overcoat"
@@ -47491,7 +47491,7 @@ module.exports = [
       "龙",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "bulletproof",
       "soundproof",
       "overcoat"
@@ -47549,7 +47549,7 @@ module.exports = [
       "电",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "electricsurge",
       "telepathy"
     ],
@@ -47594,7 +47594,7 @@ module.exports = [
       "超",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "psychicsurge",
       "telepathy"
     ],
@@ -47639,7 +47639,7 @@ module.exports = [
       "草",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "grassysurge",
       "telepathy"
     ],
@@ -47684,7 +47684,7 @@ module.exports = [
       "水",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "mistysurge",
       "telepathy"
     ],
@@ -47727,7 +47727,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "unaware"
     ],
     "eggGroup": [
@@ -47783,7 +47783,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "sturdy"
     ],
     "eggGroup": [
@@ -47841,7 +47841,7 @@ module.exports = [
       "超",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "fullmetalbody"
     ],
     "eggGroup": [
@@ -47899,7 +47899,7 @@ module.exports = [
       "超",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "shadowshield"
     ],
     "eggGroup": [
@@ -47957,7 +47957,7 @@ module.exports = [
       "岩",
       "毒"
     ],
-    "ability": [
+    "feature": [
       "beastboost"
     ],
     "eggGroup": [
@@ -48001,7 +48001,7 @@ module.exports = [
       "虫",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "beastboost"
     ],
     "eggGroup": [
@@ -48045,7 +48045,7 @@ module.exports = [
       "虫",
       "斗"
     ],
-    "ability": [
+    "feature": [
       "beastboost"
     ],
     "eggGroup": [
@@ -48087,7 +48087,7 @@ module.exports = [
     "ctype": [
       "电"
     ],
-    "ability": [
+    "feature": [
       "beastboost"
     ],
     "eggGroup": [
@@ -48131,7 +48131,7 @@ module.exports = [
       "钢",
       "飞"
     ],
-    "ability": [
+    "feature": [
       "beastboost"
     ],
     "eggGroup": [
@@ -48175,7 +48175,7 @@ module.exports = [
       "草",
       "钢"
     ],
-    "ability": [
+    "feature": [
       "beastboost"
     ],
     "eggGroup": [
@@ -48219,7 +48219,7 @@ module.exports = [
       "恶",
       "龙"
     ],
-    "ability": [
+    "feature": [
       "beastboost"
     ],
     "eggGroup": [
@@ -48261,7 +48261,7 @@ module.exports = [
     "ctype": [
       "超"
     ],
-    "ability": [
+    "feature": [
       "prismarmor"
     ],
     "eggGroup": [
@@ -48305,7 +48305,7 @@ module.exports = [
       "钢",
       "妖精"
     ],
-    "ability": [
+    "feature": [
       "soul-heart"
     ],
     "eggGroup": [
@@ -48349,7 +48349,7 @@ module.exports = [
       "格斗",
       "幽灵"
     ],
-    "ability": [
+    "feature": [
       "technician"
     ],
     "eggGroup": [
