@@ -1,4 +1,29 @@
+
+.pokemenKit {
+   margin: 30rpx;
+   display: flex;
+   align-items: center
+}
+
 .pokemenFeature {
-   margin-top: 20rpx;
-   border: 1px solid #EA5A3C
+   width: 130rpx;
+   height: 130rpx;
+   margin: 20rpx;
+   /* background-repeat:no-repeat;  */
+   background-size:100% 100%;
+   /* -moz-background-size:100% 100%; */
+}
+
+.pokemenType {
+   width: 130rpx;
+   height: 130rpx;
+   margin: 20rpx;
+   background-size:100% 100%;
+}
+
+.areaList {
+   width: 130rpx;
+   height: 130rpx;
+   margin: 20rpx;
+   background-size:100% 100%;
 }

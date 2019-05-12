@@ -1,0 +1,10 @@
+.type {
+   display: flex;
+   flex-direction: row;
+   border-bottom: solid #20191931 1rpx;
+   align-items: center;
+   height: 80rpx;
+   font-size: 34rpx;
+   background-color: white;
+   color: #353535;
+}

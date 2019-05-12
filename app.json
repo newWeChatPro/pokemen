@@ -2,12 +2,16 @@
   "pages":[
     "pages/welcome/welcome", 
     "pages/index/index", 
-    "pages/pokemenList/pokemenList", 
+    "pages/sprite/spriteList/spriteList", 
     "pages/pokemenKit/pokemenKit",
     "pages/info/info",
-    "pages/feature/feature",
-    "pages/featureDetail/featureDetail",
-    "pages/spriteDetail/spriteDetail",
+    "pages/feature/featureList/featureList",
+    "pages/feature/featureDetail/featureDetail",
+    "pages/sprite/spriteDetail/spriteDetail",
+    "pages/type/typeList/typeList",
+    "pages/type/typeDetail/typeDetail",
+    "pages/area/areaList/areaList",
+    "pages/area/areaSpriteList/areaSpriteList",
     "pages/logs/logs"
   ],
   "window":{
@@ -27,13 +31,14 @@
          "text": "News"
       },
       {
-         "pagePath" : "pages/pokemenList/pokemenList",
+         "pagePath" : "pages/sprite/spriteList/spriteList",
          "iconPath" : "img/icon_tabbar_pokemonList_normal.png",
          "selectedIconPath" : "img/icon_tabbar_pokemonList_selected.png"
       },
       {
          "pagePath" : "pages/pokemenKit/pokemenKit",
-         "text" : "工具"
+         "iconPath": "img/icon_tabbar_pokemonKitt_normal.png",
+         "selectedIconPath": "img/icon_tabbar_pokemonKit_selected.png"
       },
       {
          "pagePath" : "pages/info/info",

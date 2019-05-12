@@ -1,5 +1,14 @@
 var area = {
-  getCname: function (key) {
+   area : {
+      'gd': '关都',
+      'cd': '城都',
+      'fy': '丰缘',
+      'sa':  '神奥',
+      'hz': '合众',
+      'kls': '卡洛斯',
+      'alk': '阿罗拉'
+   },
+   getCname: function (key) {
     switch (key) {
       case 'gd': return '关都';
       case 'cd': return '城都';

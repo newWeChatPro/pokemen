@@ -1,0 +1,7 @@
+<view>
+   <block wx:for="{{area}}" wx:for-item="item" wx:for-index="idx">
+         <view class="area" catchtap = "onAreaSpriteListJump" data-idx = "{{idx}}">
+         <text class='areaName'>{{item}}</text>
+      </view>
+   </block>
+</view>

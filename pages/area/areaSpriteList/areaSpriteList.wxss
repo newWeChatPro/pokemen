@@ -1,0 +1,2 @@
+/* pages/area/areaSpriteList/areaSpriteList.wxss */
+@import "../../sprite/sprite-item-tpl/sprite-item-tpl.wxss";

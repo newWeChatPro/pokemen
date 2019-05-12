@@ -1,0 +1,11 @@
+<template name = "spriteItemTpl">
+  <view class = "sprite-container">
+    <image class="sprite-img" src='/img/sprites/{{id}}.png'></image>
+    <view class='name'>
+      <text>{{cname}}</text>
+    </view>
+    <view class='types'>
+      <text class="m-type" wx:for="{{type}}" wx:key="unique" wx:for-item="type" wx:for-index="index">{{ctype[index]}}</text>
+    </view>
+  </view>
+</template>

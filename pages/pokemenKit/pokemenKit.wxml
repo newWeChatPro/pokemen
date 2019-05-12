@@ -1,5 +1,10 @@
 <view class = "pokemenKit">
-   <view catchtap = "onFeatureJump" class = "pokemenFeature">
-      <text class = "feature">特性</text>
+   <view catchtap = "onFeatureJump" class = "pokemenFeature" style="background-image: url('../../img/pokemenFeature.png');">
+   </view>
+
+   <view catchtap='onTypeJump' class='pokemenType' style="background-image: url('../../img/pokemenType.png');">
+   </view>
+
+   <view catchtap='onAreaJump' class='areaList' style="background-image: url('../../img/areaList.png');">
    </view>
 </view>

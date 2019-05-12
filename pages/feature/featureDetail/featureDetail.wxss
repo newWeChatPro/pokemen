@@ -1,0 +1,6 @@
+@import "../../sprite/sprite-item-tpl/sprite-item-tpl.wxss";
+
+.introduce {
+   margin: 20rpx;
+   text-indent:2em;
+}

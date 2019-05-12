@@ -1,10 +1,122 @@
-/**app.wxss**/
-.container {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  padding: 200rpx 0;
+@font-face {
+  font-family: 'iconfont';  /* project id 518032 */
+  src: url('//at.alicdn.com/t/font_518032_t2q88z3jok8iwwmi.eot');
+  src: url('//at.alicdn.com/t/font_518032_t2q88z3jok8iwwmi.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_518032_t2q88z3jok8iwwmi.woff') format('woff'),
+  url('//at.alicdn.com/t/font_518032_t2q88z3jok8iwwmi.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_518032_t2q88z3jok8iwwmi.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:60rpx;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zhiding:before{content: '\e739';}
+.icon-zuojiantou:before{content: '\e736';}
+.icon-youjiantou:before{content: '\e735';}
+.icon-shangjiantou:before{content: '\e734';}
+.icon-xiajiantou1:before{content: '\e733';}
+.icon-xiajiantou:before{content: '\e6cc';}
+.icon-gengduotianchong:before{content: '\e67f';}
+.icon-erweima:before{content: '\e65f';}
+.icon-fenleiorguangchangorqita:before{content: '\e64f';}
+.icon-dibiao:before{content: '\e64d';}
+.icon-bangzhu:before{content: '\e64a';}
+.icon-xinfeng:before{content: '\e640';}
+.icon-duihuaxinxi:before{content: '\e639';}
+.icon-sousuo:before{content: '\e62f';}
+.icon-shouye:before{content: '\e62d';}
+.icon-shezhi:before{content: '\e62a';}
+.icon-shanchu:before{content: '\e629';}
+.icon-dianhua:before{content: '\e61b';}
+
+/* 精灵类型标签 */
+
+.m-type {
   box-sizing: border-box;
-} 
+  display: inline-block;
+  color: #fff;
+  font-size: 26rpx;
+  font-weight: bold;
+  width: 100rpx;
+  height: 40rpx;
+  line-height: 40rpx;
+  text-align: center;
+  border-radius: 40rpx;
+}
+
+.normal {
+  background-color: #bbbba9;
+}
+
+.fighting {
+  background-color: #be5440;
+}
+
+.flying {
+  background-color: #6595ff;
+}
+
+.poison {
+  background-color: #ad519a;
+}
+
+.ground {
+  background-color: #debd4b;
+}
+
+.rock {
+  background-color: #bbab61;
+}
+
+.bug {
+  background-color: #a8bd00;
+}
+
+.ghost {
+  background-color: #6762be;
+}
+
+.steel {
+  background-color: #aaaabc;
+}
+
+.fire {
+  background-color: #ff400b;
+}
+
+.water {
+  background-color: #2d95ff;
+}
+
+.grass {
+  background-color: #6fcf4d;
+}
+
+.electric {
+  background-color: #ffce0f;
+}
+
+.psychic {
+  background-color: #ff5099;
+}
+
+.ice {
+  background-color: #70ddff;
+}
+
+.dragon {
+  background-color: #7a5ef2;
+}
+
+.dark {
+  background-color: #785543;
+}
+
+.fairy {
+  background-color: #ffa6ff;
+}

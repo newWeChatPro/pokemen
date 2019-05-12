@@ -1,0 +1,15 @@
+<!--pages/area/areaSpriteList/areaSpriteList.wxml-->
+<import src="../../sprite/sprite-item-tpl/sprite-item-tpl.wxml"/>
+<view>
+
+   <block wx:for="{{spriteList}}" wx:for-item="item" wx:for-index="idx">
+      <block wx:for="{{item.area}}" wx:for-item="item1">
+         <view wx:if="{{item1==nowArea}}">
+            <view catchtap = "onSpriteDetailJump" data-idx = "{{idx}}" data-item='{{item}}'>
+            <template is="spriteItemTpl" data="{{...item}}"/>
+            </view>
+         </view>      
+      </block>
+   </block>
+
+</view>

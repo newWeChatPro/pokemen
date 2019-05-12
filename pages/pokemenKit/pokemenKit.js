@@ -68,15 +68,47 @@ Page({
     */
    onFeatureJump: function () {
       wx.navigateTo({
-         url: '../feature/feature',
+         url: '../feature/featureList/featureList',
          success:function() {
-            console.log("kit go to feature success");
+            console.log("kit go to featureList success");
          },
          fail:function() {
-            console.log("kit go to feature fail");
+            console.log("kit go to featureList fail");
          },
          complete:function() {
-            console.log("kit go to feature complete");
+            console.log("kit go to featureList complete");
+         }
+      });
+   },
+
+   /**
+    * 跳转属性列表页
+    */
+    onTypeJump: function () {
+       wx.navigateTo({
+          url: '../type/typeList/typeList',
+          success: function () {
+             console.log("kit go to typeList success");
+          },
+          fail: function () {
+             console.log("kit go to typeList fail");
+          },
+          complete: function () {
+             console.log("kit go to typeList complete");
+          }
+       });
+    },
+   onAreaJump: function () {
+      wx.navigateTo({
+         url: '../area/areaList/areaList',
+         success: function () {
+            console.log("kit go to areaList success");
+         },
+         fail: function () {
+            console.log("kit go to areaList fail");
+         },
+         complete: function () {
+            console.log("kit go to areaList complete");
          }
       });
    }

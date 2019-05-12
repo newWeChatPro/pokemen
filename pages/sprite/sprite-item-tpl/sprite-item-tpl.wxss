@@ -1,0 +1,24 @@
+.sprite-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100rpx;
+  margin: 0 30rpx;
+  border-bottom: 1px solid #00F;
+  font-size: 34rpx;
+  color: #353535;
+}
+
+.sprite-img{
+  width: 80rpx;
+  height: 80rpx;
+  padding: 10rpx;
+}
+
+.types {
+  margin-left: auto;
+  margin-right: 0%;
+}
+.m-type {
+  margin-left: 20rpx;
+}

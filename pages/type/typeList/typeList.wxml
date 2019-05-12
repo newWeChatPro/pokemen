@@ -1,0 +1,8 @@
+
+<view>
+   <block wx:for="{{typeItems}}" wx:for-item="item" wx:for-index="idx">
+      <view class='type' catchtap="onTypeJump" data-idx='{{idx}}'>
+         <text class='m-type {{idx}}'>{{item}}</text>
+      </view>
+   </block>
+</view>

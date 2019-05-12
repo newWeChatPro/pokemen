@@ -1,0 +1,21 @@
+<!--pages/photo/photo.wxml-->
+<import src="../sprite-item-tpl/sprite-item-tpl.wxml"/>
+<view class='container'>
+  <view class='search'>
+    <icon type = 'search' class = 'search-img' size='13' color='#405f80'></icon>
+    <input type='text' placeholder='请输入宝可梦中文名或编号'
+    placeholder-class='placeholder' bindfocus='onBindFocus' bindconfirm='onBindConfirm' value='{{inputValue}}'></input>
+    <image wx:if = '{{searchPanelShow}}' src='/images/icon/wx_app_xx.png' class='xx-img' catchtap='onCancelImgTap'></image>
+  </view>
+
+
+  <scroll-view sroll-y="true" scroll-top="0">
+    <block wx:for="{{showSpriteList}}" wx:for-item="sprite" wx:key="" wx:for-index="idx">
+    <view catchtap="onTapSpriteDetail" data-sprite-id="{{sprite.id}}">
+      <template is="spriteItemTpl" data="{{...sprite}}"/>
+    </view>
+    </block>
+  </scroll-view>
+
+
+</view>

@@ -1,0 +1,24 @@
+<view class='topContains'>
+   <text>攻击伤害\n</text>  
+      <block wx:for="{{attackType}}" wx:for-item="item" wx:for-index="idx">
+         <view class='typeContainer'>
+            <text class='m-type {{idx}}'>{{typeItem[idx]}} : </text>
+            <text class='right'>{{item}}x</text>
+         </view>
+      </block>  
+</view>
+
+<view class='bottomContains'>
+   <text>承受伤害\n</text>
+
+   <block wx:for="{{type.table}}" wx:for-item="item" wx:for-index="idx">
+
+      <view class='typeContainer'>
+            <text class='m-type {{idx}}'>{{typeItem[idx]}} : </text>
+            <text class='right'>{{item[typeIndex]}}x</text>
+      </view>
+
+   </block>
+
+</view>
+

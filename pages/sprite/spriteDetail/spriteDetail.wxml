@@ -1,0 +1,184 @@
+<view class='container'>
+  <view class = "sprite-container" wx:if = "{{id > 0}}">
+    <image class="sprite-img" src='/img/sprites/{{id}}.png'></image>
+    <view class='sprite-name'>
+      <text>{{sprite.cname}}</text>
+    </view>
+    <view class="name">
+        <text>#{{sprite.showid}}{{sprite.species}}宝可梦</text>
+      </view>
+    <view class='types'>
+      <text class="m-type" wx:for="{{spriteData.type}}" wx:key="unique" wx:for-item="type" wx:for-index="index">{{sprite.ctype[index]}}</text>
+    </view>
+    <view>
+      <icon class="iconfont icon-youjiantou"></icon>
+    </view>
+  </view>
+
+  <view class='title-container'>
+    <text class='title'>基本信息</text>
+  </view>
+    <view class='data-container'>
+      <view class='data-title'>世代</view>
+      <view class="content">{{sprite.generation}}</view>
+    </view>
+    <view class='data-container'>
+      <view class='data-title'>蛋组</view>
+      <view class="content">
+        <text wx:for="{{sprite.ceggGroup}}" wx:key="unique" wx:for-item="cegg">{{cegg}}
+        </text>
+      </view>
+    </view>
+    <view class='data-container'>
+      <view class='data-title'>性别比率</view>
+      <view wx:if="{{ sprite.genderObj.m || sprite.genderObj.f }}" class="content">
+        <text>♂{{sprite.genderObj.m}}</text>
+        <text>:</text>
+        <text class="female">♀{{sprite.genderObj.f}}</text>
+      </view>
+      <view wx:else class="content">
+        <text>{{sprite.genderObj}}</text>
+      </view>
+    </view>
+    <view class='data-container'> 
+      <view class='data-title'>捕获率</view>
+      <view class="content">{{sprite.captureRate}}</view>
+    </view>
+    <view class='data-container'>
+      <view class='data-title'>基础点数</view>
+      <view class="content">{{sprite.addStatsTxt}}</view>
+    </view>
+
+
+    <view class='title-container'>
+      <text class='title'>种族值</text>
+    </view>
+    <view class='data-container'>
+      <view class='data-title'>HP</view>
+      <view class="content">
+        <text class="pTitle">{{sprite.baseStats.HP}}</text>
+
+        <progress wx:if="{{sprite.baseStats.HP < 50}}" percent="{{100 * sprite.baseStats.HP / 255}}" stroke-width="15" active activeColor="#f05d5d" />
+        <progress wx:elif="{{sprite.baseStats.HP < 100}}" percent="{{100 * sprite.baseStats.HP / 255}}" stroke-width="15" active activeColor="#f05d5d" />
+        <progress wx:elif="{{sprite.baseStats.HP < 150}}" percent="{{100 * sprite.baseStats.HP / 255}}" stroke-width="15" active activeColor="#f05d5d" />
+        <progress wx:else percent="{{100 * sprite.baseStats.HP / 255}}" stroke-width="15" active activeColor="#f05d5d" />
+
+      </view>
+    </view>
+    <view class='data-container'>
+      <view class='data-title'>攻击</view>
+      <view class="content">
+        <text class="pTitle">{{sprite.baseStats.ATK}}</text>
+        
+        <progress wx:if="{{sprite.baseStats.ATK < 50}}" percent="{{100 * sprite.baseStats.ATK / 255}}" stroke-width="15" active activeColor="#FF400B" />
+        <progress wx:elif="{{sprite.baseStats.ATK < 100}}" percent="{{100 * sprite.baseStats.ATK / 255}}" stroke-width="15" active activeColor="#FFCE0F" />
+        <progress wx:elif="{{sprite.baseStats.ATK < 150}}" percent="{{100 * sprite.baseStats.ATK / 255}}" stroke-width="15" active activeColor="#6FCF4D" />
+        <progress wx:else percent="{{100 * sprite.baseStats.ATK / 255}}" stroke-width="15" active activeColor="#6595FF" />
+
+      </view>
+    </view>
+    <view class='data-container'>
+      <view class='data-title'>防御</view>
+      <view class="content">
+        <text class="pTitle">{{sprite.baseStats.DEF}}</text>
+
+      <progress wx:if="{{sprite.baseStats.DEF < 50}}" percent="{{100 * sprite.baseStats.DEF / 255}}" stroke-width="15" active activeColor="#FF400B" />
+      <progress wx:elif="{{sprite.baseStats.DEF < 100}}" percent="{{100 * sprite.baseStats.DEF / 255}}" stroke-width="15" active activeColor="#FFCE0F" />
+      <progress wx:elif="{{sprite.baseStats.DEF < 150}}" percent="{{100 * sprite.baseStats.DEF / 255}}" stroke-width="15" active activeColor="#6FCF4D" />
+      <progress wx:else percent="{{100 * sprite.baseStats.DEF / 255}}" stroke-width="15" active activeColor="#6595FF" />
+      </view>
+
+    </view>
+    <view class='data-container'>
+      <view class='data-title'>特攻</view>
+      <view class="content">
+        <text class="pTitle">{{sprite.baseStats.SPA}}</text>
+
+      <progress wx:if="{{sprite.baseStats.SPA < 50}}" percent="{{100 * sprite.baseStats.SPA / 255}}" stroke-width="15" active activeColor="#FF400B" />
+        <progress wx:elif="{{sprite.baseStats.SPA < 100}}" percent="{{100 * sprite.baseStats.SPA / 255}}" stroke-width="15" active activeColor="#FFCE0F" />
+        <progress wx:elif="{{sprite.baseStats.SPA < 150}}" percent="{{100 * sprite.baseStats.SPA / 255}}" stroke-width="15" active activeColor="#6FCF4D" />
+        <progress wx:else percent="{{100 * sprite.baseStats.SPA / 255}}" stroke-width="15" active activeColor="#6595FF" />
+
+      </view>
+    </view>
+    <view class='data-container'>
+      <view class='data-title'>特防</view>
+      <view class="content">
+        <text class="pTitle">{{sprite.baseStats.SPD}}</text>
+
+      <progress wx:if="{{sprite.baseStats.SPD < 50}}" percent="{{100 * sprite.baseStats.SPD / 255}}" stroke-width="15" active activeColor="#FF400B" />
+        <progress wx:elif="{{sprite.baseStats.SPD < 100}}" percent="{{100 * sprite.baseStats.SPD / 255}}" stroke-width="15" active activeColor="#FFCE0F" />
+        <progress wx:elif="{{sprite.baseStats.SPD < 150}}" percent="{{100 * sprite.baseStats.SPD / 255}}" stroke-width="15" active activeColor="#6FCF4D" />
+        <progress wx:else percent="{{100 * sprite.baseStats.SPD / 255}}" stroke-width="15" active activeColor="#6595FF" />
+
+      </view>
+    </view>
+    <view class='data-container'>
+      <view class='data-title'>速度</view>
+      <view class="content">
+        <text class="pTitle">{{sprite.baseStats.SPE}}</text>
+
+      <progress wx:if="{{sprite.baseStats.SPE < 50}}" percent="{{100 * sprite.baseStats.SPE / 255}}" stroke-width="15" active activeColor="#9c88e7" />
+        <progress wx:elif="{{sprite.baseStats.SPE < 100}}" percent="{{100 * sprite.baseStats.SPE / 255}}" stroke-width="15" active activeColor="#9c88e7" />
+        <progress wx:elif="{{sprite.baseStats.SPE < 150}}" percent="{{100 * sprite.baseStats.SPE / 255}}" stroke-width="15" active activeColor="#9c88e7" />
+        <progress wx:else percent="{{100 * sprite.baseStats.SPE / 255}}" stroke-width="15" active activeColor="#9c88e7" />
+
+      </view>
+    </view>
+    <view class='data-container'>
+      <view class='data-title'>总和</view>
+      <view class="content">
+        <text class="pTitle">{{sprite.baseStats.HP + sprite.baseStats.ATK + sprite.baseStats.DEF + sprite.baseStats.SPA + sprite.baseStats.SPD + sprite.baseStats.SPE}}</text>
+      </view>
+    </view>
+    <view class='title-container'>
+      <text class="title">特性</text>
+    </view>
+  <view class="">
+    <view class="feature-container" wx:for="{{sprite.featuresList}}" wx:key="unique" wx:for-item="features" wx:for-index="index" bindtap="tofeaturesDetail" data-id="{{sprite.features[index]}}">
+      <text class='featureName'> {{features.showname}}</text>
+      <view class="feature">{{features.introduce}}</view>
+    </view>
+  </view>
+    
+
+  <block wx:if="{{sprite.evolutmax && sprite.evolutmax.length}}">
+    <text class="title">进化</text>
+
+    <view class="evolution-container" wx:for="{{sprite.evolutmax}}" wx:key="unique" wx:for-item="cevolutions" wx:for-index="index">
+      <block wx:for="{{cevolutions}}" wx:key="unique" wx:for-item="evolute" wx:for-index="index">
+        <view wx:if="{{evolute.level || evolute.happiness || evolute.other}}" class="arrow-container">
+          <text>升级</text>
+          <image class='arrow' src="/img/arrow_level.png"></image>
+        </view>
+        <view wx:elif="{{evolute.stone}}" class="join joinstone">
+          <text>进化石</text>
+          <image class='arrow' src="/img/arrow_stone.png"></image>
+        </view>
+        <view wx:elif="{{evolute.exchange!=undefined}}" class="join joinexchange">
+          <text>交换</text>
+          <image class='arrow' src="/img/arrow_exchange.png"></image>
+        </view>
+        <view wx:elif="{{evolute.stand}}" class="feature-container">
+          <text>升级</text>
+          <image class='arrow' src="/img/arrow_level.png"></image>
+        </view>
+        <view class="level">
+          <text wx:if="{{evolute.level}}" class="level">Lv.{{evolute.level}}</text>
+          <text wx:elif="{{evolute.stone}}" class="level">{{evolute.stone}}</text>
+          <text wx:elif="{{evolute.happiness}}" class="level">{{evolute.happiness}}</text>
+          <text wx:elif="{{evolute.exchange}}" class="level">{{evolute.exchange}}</text>
+          <text wx:elif="{{evolute.other}}" class="level">{{evolute.other}}</text>
+          <text wx:else class="nolevel">''</text>
+          <view class="evolutionImg-container" bindtap="tapSprite" data-id="{{evolute.id}}" data-index="{{evolute.index}}">
+            <image class="sprite-img" src="/img/sprites/{{evolute.id }}.png"></image>
+            <view class='nameColor'>
+              <text class="name">{{evolute.cname}}</text>
+            </view>
+          </view>
+        </view>
+      </block>
+    </view>
+  </block>  
+
+</view>
